@@ -1,0 +1,59 @@
+# do not touch this line
+configVersion: 2
+
+description: InfraRed
+keywords: infraRed
+name: irTest
+shortName: irTest
+displayName: IrTest
+
+screens:
+  - - tvmodels
+  - - tvcontrol
+
+widgets:
+  tvmodels:
+    control: dropdown
+    map:
+      - event: one_for_all 
+        value: Generic
+      - event: avermedia 
+        value: Avermedia
+      - event: directv 
+        value: Direct TV
+      - event: lg 
+        value: LG
+      - event: pinnacle_systems 
+        value: Pinnacle Systems
+      - event: sony
+        value: Sony
+      - event: philips
+        value: Philips
+      - event: panasonic
+        value: Panasonic
+      - event: samsung
+        value: Samsung
+      - event: telefunken
+        value: Telefunken
+      - event: thomson
+        value: Thomson
+      - event: toshiba
+        value: Toshiba
+    label: TV Models
+  tvcontrol:
+    control: button
+    map:
+      - event: power_on
+        value: Power On
+      - event: power_off
+        value: Power Off
+      - event: channel_up
+        value: Channel Up
+      - event: channel_down
+        value: Channel Down
+      - event: volume_up
+        value: Volume Up
+      - event: volume_down
+        value: Volume Down
+    label: TV Control Buttons
+

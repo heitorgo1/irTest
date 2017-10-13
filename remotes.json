@@ -1,0 +1,3941 @@
+{
+  "2wire": [
+    "2wire"
+  ], 
+  "3m": [
+    "MP8640"
+  ], 
+  "abit": [
+    "AU10"
+  ], 
+  "abs": [
+    "8776"
+  ], 
+  "accesshd": [
+    "DTA1080U"
+  ], 
+  "accessmedia": [
+    "ThinBox"
+  ], 
+  "acer": [
+    "AT3201W", 
+    "Aspire_6530G", 
+    "RC-17DE0", 
+    "RC-802"
+  ], 
+  "aconatic": [
+    "AN-2121_DRS"
+  ], 
+  "acorp": [
+    "acorp-878y"
+  ], 
+  "adaptec": [
+    "AVC-2410"
+  ], 
+  "adb": [
+    "I-CAN_3000"
+  ], 
+  "admiral": [
+    "G0014AJ"
+  ], 
+  "ads": [
+    "Instant_TV_DVB-T", 
+    "PTV-334", 
+    "PTV-350"
+  ], 
+  "adstech": [
+    "usbx-707"
+  ], 
+  "advanced_acoustic": [
+    "MAP-305II_DAII"
+  ], 
+  "aim": [
+    "RC126", 
+    "Radio"
+  ], 
+  "aiwa": [
+    "RC-5VP05", 
+    "RC-6AS07", 
+    "RC-6AS14", 
+    "RC-6AT03", 
+    "RC-7AS06", 
+    "RC-8AS04", 
+    "RC-8AT02", 
+    "RC-950LE", 
+    "RC-AAR02", 
+    "RC-AAT11", 
+    "RC-AVT02", 
+    "RC-BVR02", 
+    "RC-C003", 
+    "RC-C105", 
+    "RC-C202", 
+    "RC-CAS10", 
+    "RC-L01", 
+    "RC-L60E", 
+    "RC-T501", 
+    "RC-T503", 
+    "RC-T504", 
+    "RC-T506", 
+    "RC-T770F", 
+    "RC-TD3", 
+    "RC-TG100", 
+    "RC-TN320EX", 
+    "RC-TN330", 
+    "RC-TN360", 
+    "RC-TN380B", 
+    "RC-TN500EX", 
+    "RC-TN520EX", 
+    "RC-TN5L", 
+    "RC-TV2", 
+    "RC-TXG710", 
+    "RC-TZ650", 
+    "RC-TZ800", 
+    "RC-TZ95ML", 
+    "RC-X97", 
+    "RC-ZAS01", 
+    "RC-ZAS02", 
+    "RC-ZAS10", 
+    "RC-ZAS17", 
+    "RC-ZAT04", 
+    "RC-ZVR02", 
+    "RC-ZVR04", 
+    "S79", 
+    "XR-MD201"
+  ], 
+  "akai": [
+    "RC-61A", 
+    "RC-AAV2100", 
+    "RC-C37", 
+    "RC-C79", 
+    "RC-S115", 
+    "RC-S59", 
+    "RC-S590", 
+    "RC-S67", 
+    "RC-V22A", 
+    "RC-V23E", 
+    "RC-V420E", 
+    "RC-V99A", 
+    "RC-W152E", 
+    "RC-W201G", 
+    "RC-W212F", 
+    "RC-X121E", 
+    "RC-X626E", 
+    "RC-Y121G", 
+    "RC891", 
+    "TV", 
+    "V425A"
+  ], 
+  "aki": [
+    "DVD-838W"
+  ], 
+  "akord": [
+    "AK802HD"
+  ], 
+  "alba": [
+    "DVD108"
+  ], 
+  "allsat": [
+    "SRC5893"
+  ], 
+  "alpine": [
+    "RUE-4185", 
+    "RUE-4187"
+  ], 
+  "amino": [
+    "STB"
+  ], 
+  "amlogic": [
+    "mxq_pro"
+  ], 
+  "amstrad": [
+    "DX3070", 
+    "SRD650", 
+    "SRX2101", 
+    "SRX340"
+  ], 
+  "amytel": [
+    "ACI-200"
+  ], 
+  "animax": [
+    "animax"
+  ], 
+  "anitech": [
+    "TV_M3740", 
+    "VCR"
+  ], 
+  "anysee": [
+    "DVB-T"
+  ], 
+  "aoc": [
+    "M19W531"
+  ], 
+  "aopen": [
+    "RC-R470"
+  ], 
+  "apex": [
+    "AD-600A", 
+    "DT250", 
+    "DV-R200", 
+    "DV-R383", 
+    "K12B-C2", 
+    "K12K-C5", 
+    "RM-1200", 
+    "RM-2600"
+  ], 
+  "apple": [
+    "A1156", 
+    "A1294", 
+    "APPLE", 
+    "CD", 
+    "MC377Z", 
+    "Mac", 
+    "macmini"
+  ], 
+  "arcam": [
+    "ARCAM", 
+    "AV200"
+  ], 
+  "archos": [
+    "104509-V2"
+  ], 
+  "aristona": [
+    "37TA1274_03", 
+    "RC5525", 
+    "RC9067"
+  ], 
+  "askey": [
+    "AS-218"
+  ], 
+  "aspire_digital": [
+    "RW_DVD+ReWritable"
+  ], 
+  "astro": [
+    "ASR340"
+  ], 
+  "asus": [
+    "DigiMatrix", 
+    "Digital_Home", 
+    "RC1974502_00", 
+    "TVBox", 
+    "asus", 
+    "asusdh", 
+    "digimatrix"
+  ], 
+  "aten": [
+    "VS-431"
+  ], 
+  "atiusb": [
+    "atilibusb", 
+    "atiusb"
+  ], 
+  "atlanta_dth": [
+    "8009_DSR"
+  ], 
+  "atlas": [
+    "ABS-1Q76"
+  ], 
+  "att": [
+    "RC1534801_00", 
+    "U-Verse"
+  ], 
+  "audiolab": [
+    "M-DAC"
+  ], 
+  "audiosonic": [
+    "TV", 
+    "TXCD-1240"
+  ], 
+  "audiosource": [
+    "SS-Three"
+  ], 
+  "audiovox": [
+    "SIR_CMB3", 
+    "Sirius_PNP2"
+  ], 
+  "aureal": [
+    "atwf83"
+  ], 
+  "autumnwave": [
+    "OnAir_GT"
+  ], 
+  "auvisio": [
+    "VRC-1100_Ro"
+  ], 
+  "avermedia": [
+    "AVerTV_Box_5", 
+    "DVB-T_771", 
+    "RM-FP", 
+    "RM-H7", 
+    "RM-KS", 
+    "RM-KV", 
+    "Studio_203", 
+    "avermedia", 
+    "avermedia98", 
+    "tvstudio", 
+    "vdomate"
+  ], 
+  "avex": [
+    "AV5609", 
+    "RC501", 
+    "URC-R6"
+  ], 
+  "avtoolbox": [
+    "SW-5070"
+  ], 
+  "awlibusb": [
+    "awlibusb"
+  ], 
+  "axion": [
+    "AXN-6075"
+  ], 
+  "azbox": [
+    "S700"
+  ], 
+  "bang&olufsen;": [
+    "Beo4"
+  ], 
+  "barco": [
+    "RC5"
+  ], 
+  "bbk": [
+    "DV963SM", 
+    "NP101S-v2", 
+    "PV400s", 
+    "RC-SMP712", 
+    "RC022-03R"
+  ], 
+  "beko": [
+    "14B3M04-TXB", 
+    "NR_KK14T61_TX"
+  ], 
+  "belkin": [
+    "F5X019"
+  ], 
+  "bellagio": [
+    "P807"
+  ], 
+  "bench": [
+    "KH2800", 
+    "KH6777"
+  ], 
+  "benq": [
+    "DV3080", 
+    "MP620", 
+    "W1070"
+  ], 
+  "beon": [
+    "Colour_TV"
+  ], 
+  "bestbuy": [
+    "bestbuy", 
+    "bestbuy2"
+  ], 
+  "blaupunkt": [
+    "RC10"
+  ], 
+  "bluesky": [
+    "DV900"
+  ], 
+  "bork": [
+    "DV_VKM_1643_SI"
+  ], 
+  "bose": [
+    "WAVERADIO", 
+    "WaveMusicSystem", 
+    "WaveRadioCD"
+  ], 
+  "brondell": [
+    "swash_300"
+  ], 
+  "bush": [
+    "4400", 
+    "DFTA1xi", 
+    "WS6680"
+  ], 
+  "cambridge_audio": [
+    "CD", 
+    "RC-340AC_540AC_640AC", 
+    "RC-540R_V2_0", 
+    "RC-DVD53", 
+    "RC-DVD55", 
+    "X40A"
+  ], 
+  "canalsat": [
+    "CanalSat", 
+    "CanalSatHD"
+  ], 
+  "canon": [
+    "RC-1_RC-5", 
+    "WL-100", 
+    "WL-60", 
+    "WL-D71", 
+    "WL-D77", 
+    "WL-D80", 
+    "WL-DC100", 
+    "WL-V1"
+  ], 
+  "captain": [
+    "7100usb"
+  ], 
+  "captiveworks": [
+    "CW800s"
+  ], 
+  "casio": [
+    "CMD-40"
+  ], 
+  "cat": [
+    "CS-907", 
+    "DVD-1122", 
+    "KF-9816"
+  ], 
+  "cce": [
+    "88-X", 
+    "HPS-2290", 
+    "RC-27", 
+    "RC-28"
+  ], 
+  "cenomax": [
+    "F702"
+  ], 
+  "centrum": [
+    "DVD", 
+    "Gemini_340"
+  ], 
+  "century_concept": [
+    "PS2-0001"
+  ], 
+  "chaparral": [
+    "11-5315-1"
+  ], 
+  "chinon": [
+    "CDS-430"
+  ], 
+  "chiro": [
+    "C-802"
+  ], 
+  "chronos": [
+    "chronos"
+  ], 
+  "ciat": [
+    "6711A20026G"
+  ], 
+  "cisco": [
+    "RNG-150"
+  ], 
+  "citizen": [
+    "JX-2022C"
+  ], 
+  "clarion": [
+    "RCB-130", 
+    "RCB-177"
+  ], 
+  "comag": [
+    "6222-N1"
+  ], 
+  "comcast": [
+    "3067BC2-R", 
+    "Custom-3-Device", 
+    "RNG-150"
+  ], 
+  "commodore": [
+    "CDTV"
+  ], 
+  "compro": [
+    "DVB-T200", 
+    "VideoMate-K300"
+  ], 
+  "conrad": [
+    "CDPL-5", 
+    "MF_150", 
+    "Promo-8", 
+    "Promo2_006", 
+    "RSLT2"
+  ], 
+  "contour": [
+    "LXI"
+  ], 
+  "coolsat": [
+    "Pro_4000", 
+    "Pro_5000"
+  ], 
+  "cosmel": [
+    "TV_3790"
+  ], 
+  "cox": [
+    "ATLAS_DVR_PVR_5-DEVICE", 
+    "DCT2224"
+  ], 
+  "cph03x": [
+    "cph03x"
+  ], 
+  "creative": [
+    "CD", 
+    "DDTS-100", 
+    "JUKEBOX_3", 
+    "RM-1000", 
+    "RM-1800", 
+    "RM-850", 
+    "RM-900", 
+    "alsa_usb", 
+    "breakoutbox", 
+    "creative", 
+    "infracd", 
+    "livedrive"
+  ], 
+  "crown": [
+    "CD-80", 
+    "RC_647340"
+  ], 
+  "cryptobox": [
+    "hd-500"
+  ], 
+  "cttc": [
+    "CLA_Tronic"
+  ], 
+  "curtis_electronics": [
+    "TV"
+  ], 
+  "cyberhome": [
+    "AD-L_528", 
+    "ADL-528", 
+    "CH-DVD-302", 
+    "CH-DVD_402", 
+    "CH-DVD_504", 
+    "RMC-300Z"
+  ], 
+  "cypress": [
+    "cr-72"
+  ], 
+  "d-link": [
+    "DSM-10", 
+    "DSM320", 
+    "i2eye"
+  ], 
+  "daeumling": [
+    "SR200"
+  ], 
+  "daewoo": [
+    "14Q3_TV", 
+    "97P04701", 
+    "97P1R2ZDA0", 
+    "97P1RA3AB0", 
+    "DS608P", 
+    "DV-800", 
+    "DV-F24D", 
+    "DV-K281K", 
+    "DVDS150", 
+    "IR7132-A", 
+    "R-22", 
+    "R-28B03", 
+    "R-40A06", 
+    "R-40A10", 
+    "R-40A15", 
+    "R-43A08", 
+    "VP-200_VCR", 
+    "VQ25I"
+  ], 
+  "dantax": [
+    "RC_DVD910"
+  ], 
+  "daytron": [
+    "VCR32-DAU"
+  ], 
+  "dell": [
+    "MR425"
+  ], 
+  "denon": [
+    "RC-1017", 
+    "RC-1075", 
+    "RC-1095", 
+    "RC-1120", 
+    "RC-1161", 
+    "RC-1163", 
+    "RC-117", 
+    "RC-129A", 
+    "RC-152", 
+    "RC-165", 
+    "RC-174", 
+    "RC-176", 
+    "RC-181", 
+    "RC-194", 
+    "RC-195", 
+    "RC-203", 
+    "RC-220", 
+    "RC-224", 
+    "RC-241", 
+    "RC-251", 
+    "RC-258", 
+    "RC-266", 
+    "RC-267", 
+    "RC-541", 
+    "RC-543", 
+    "RC-812", 
+    "RC-818", 
+    "RC-828", 
+    "RC-830", 
+    "RC-840", 
+    "RC-841", 
+    "RC-843", 
+    "RC-846", 
+    "RC-860", 
+    "RC-861", 
+    "RC-877", 
+    "RC-896", 
+    "RC-897", 
+    "RC-917", 
+    "rc-824"
+  ], 
+  "denver": [
+    "DVD-228"
+  ], 
+  "devinput": [
+    "devinput"
+  ], 
+  "difrnce": [
+    "DVD5010S"
+  ], 
+  "digital_stream": [
+    "DTX9900"
+  ], 
+  "directv": [
+    "G051204", 
+    "H23", 
+    "HD20-100", 
+    "RC16", 
+    "RC24", 
+    "RC32", 
+    "RC64"
+  ], 
+  "dishnet": [
+    "301_501_3100_5100_58xx_59xx", 
+    "Dish_Network", 
+    "SAT_301"
+  ], 
+  "dk_digital": [
+    "DVD-228", 
+    "DVD-585"
+  ], 
+  "dolamee": [
+    "D5"
+  ], 
+  "domland": [
+    "MH10CA"
+  ], 
+  "dream_multimedia": [
+    "DM_7000", 
+    "URC-39730-B00", 
+    "URC-39930RJ0-03"
+  ], 
+  "droidbox": [
+    "droidbox"
+  ], 
+  "dse": [
+    "G1605", 
+    "G1928", 
+    "G7659"
+  ], 
+  "dual": [
+    "RC1150", 
+    "RC500", 
+    "RC_4890"
+  ], 
+  "durabrand": [
+    "PTV141"
+  ], 
+  "dvico": [
+    "FusionRemote", 
+    "fusionHDTV"
+  ], 
+  "dynaudio": [
+    "Sub_500"
+  ], 
+  "dynex": [
+    "DX-CVS4"
+  ], 
+  "e-tech": [
+    "TV_CARD"
+  ], 
+  "ea65": [
+    "ea65"
+  ], 
+  "eagle_aspen": [
+    "ROTR10"
+  ], 
+  "echostar": [
+    "119420", 
+    "132578", 
+    "301_501_3100_5100_58xx_59xx", 
+    "AD3000IP", 
+    "DBS", 
+    "DSB-616", 
+    "DSB-636", 
+    "Dish_Network", 
+    "SAT_301"
+  ], 
+  "eclipse": [
+    "CD101"
+  ], 
+  "ecotel": [
+    "UNIVERSAL"
+  ], 
+  "ei": [
+    "TV90"
+  ], 
+  "elenberg": [
+    "RC-404E"
+  ], 
+  "elite": [
+    "9361-3EL"
+  ], 
+  "elitron": [
+    "UTK11"
+  ], 
+  "elmak": [
+    "MT-1041"
+  ], 
+  "elmo": [
+    "PRC-100S"
+  ], 
+  "eltasat": [
+    "SAT170"
+  ], 
+  "eltax": [
+    "Corniche"
+  ], 
+  "emerson": [
+    "076m056100", 
+    "CD", 
+    "NB050", 
+    "TV"
+  ], 
+  "entone": [
+    "URC-4021ABA1-006-R"
+  ], 
+  "epson": [
+    "12807990", 
+    "ELPST12"
+  ], 
+  "ericsson": [
+    "bte"
+  ], 
+  "euroconsumers": [
+    "LG-5988"
+  ], 
+  "evation": [
+    "RC"
+  ], 
+  "evolution": [
+    "URC-2220-R"
+  ], 
+  "expressvu": [
+    "301_501_3100_5100_58xx_59xx", 
+    "SAT_3100"
+  ], 
+  "fagor": [
+    "TEDI100"
+  ], 
+  "falcon": [
+    "VT-1000"
+  ], 
+  "fenner": [
+    "SAT"
+  ], 
+  "ferguson": [
+    "RC8X02NX"
+  ], 
+  "finlux": [
+    "3628"
+  ], 
+  "fisher": [
+    "FVH-U908", 
+    "RC720F", 
+    "RCA-9050", 
+    "RCA-9060", 
+    "REM-1500", 
+    "REM_S3"
+  ], 
+  "fisher_price": [
+    "C0108"
+  ], 
+  "focus-touch": [
+    "HOF09B232GPD11"
+  ], 
+  "fortec": [
+    "Lifetime", 
+    "Mercury2"
+  ], 
+  "fox": [
+    "RC_5-Bp2"
+  ], 
+  "foxtel": [
+    "Digital_Cable_STB", 
+    "Digital_Satellite_STB", 
+    "STU-120"
+  ], 
+  "frahm": [
+    "MD300"
+  ], 
+  "free": [
+    "Freebox", 
+    "Freebox_V5"
+  ], 
+  "freecom": [
+    "MP35", 
+    "unknown-1"
+  ], 
+  "freedomland": [
+    "SWP-2438WJ1F"
+  ], 
+  "fresat": [
+    "SER-3000PL_A"
+  ], 
+  "fte_maximal": [
+    "ESR1500"
+  ], 
+  "fuba": [
+    "BAT970004A3", 
+    "ODE_520", 
+    "ST-007"
+  ], 
+  "fujitsu": [
+    "CP300375-01"
+  ], 
+  "fujitsu_siemens": [
+    "KWR3020", 
+    "RC1124121", 
+    "RC811", 
+    "RC812"
+  ], 
+  "fujtech": [
+    "DVB-T"
+  ], 
+  "funai": [
+    "N9479", 
+    "NF021RD", 
+    "V-8008CM_MKII", 
+    "V3EE_MK6", 
+    "VCR_21C-450", 
+    "VCR_8307CA"
+  ], 
+  "furby": [
+    "FURBY"
+  ], 
+  "galaxis": [
+    "RC1", 
+    "RC5", 
+    "RCMM", 
+    "UR-250D"
+  ], 
+  "gamefactory": [
+    "PS2DVD"
+  ], 
+  "ge": [
+    "TV-25CT511", 
+    "UNIVERSAL", 
+    "VKFS0938"
+  ], 
+  "general": [
+    "VCR"
+  ], 
+  "general_instrument": [
+    "550", 
+    "XRC-200"
+  ], 
+  "generic": [
+    "DENON", 
+    "MOTOROLA", 
+    "NEC-pulse", 
+    "NEC-short-pulse", 
+    "NEC", 
+    "RC-5", 
+    "RC-6", 
+    "RCMM-32", 
+    "RECS80", 
+    "SANYO", 
+    "SONY12", 
+    "SONY20", 
+    "XMP"
+  ], 
+  "geniatech": [
+    "Supera_Color"
+  ], 
+  "genius": [
+    "DVB-T32", 
+    "SW_5_1_HT"
+  ], 
+  "genus": [
+    "DU1"
+  ], 
+  "get": [
+    "HD_PRV"
+  ], 
+  "gigabyte": [
+    "TV"
+  ], 
+  "golden_interstart": [
+    "DSR-8001"
+  ], 
+  "golden_media": [
+    "990"
+  ], 
+  "goldstar": [
+    "105-210A", 
+    "243-592c", 
+    "6710S-6000A", 
+    "GSE-Q204P", 
+    "QUISY_500", 
+    "RN800AW", 
+    "TV", 
+    "TV_VCR", 
+    "VCR", 
+    "VCR2"
+  ], 
+  "goodmans": [
+    "GDB_3", 
+    "GDVD124", 
+    "MD-305", 
+    "RC-BM"
+  ], 
+  "govideo": [
+    "D2730"
+  ], 
+  "gradiente": [
+    "D-10", 
+    "GSD-100", 
+    "MDP-200"
+  ], 
+  "graetz": [
+    "Graetz"
+  ], 
+  "gran_prix": [
+    "TV"
+  ], 
+  "grandin": [
+    "TV"
+  ], 
+  "grundig": [
+    "2500S", 
+    "ASIS", 
+    "CDM_700", 
+    "FineARTS", 
+    "FineArts_AMP_V1", 
+    "M38-C", 
+    "Personal_Remote_10", 
+    "RC-TP3", 
+    "RC1CD", 
+    "RC24-03", 
+    "RC300", 
+    "RC8400CD", 
+    "RP25", 
+    "RP700", 
+    "RP75_LCD", 
+    "RP_100", 
+    "RP_35", 
+    "System_Series", 
+    "TP660", 
+    "TP_160C", 
+    "TP_621", 
+    "TP_623", 
+    "TP_661_TOP", 
+    "TP_711", 
+    "TP_715", 
+    "TP_715_SAT", 
+    "TP_720", 
+    "TP_750C-2", 
+    "TP_750C", 
+    "TP_760", 
+    "TP_800_HOTEL", 
+    "TP_820_SAT", 
+    "TVP_763", 
+    "TelePilot_100C", 
+    "TelePilot_84D", 
+    "rc8300ac"
+  ], 
+  "guillemot": [
+    "RemoteWizard-GN-263"
+  ], 
+  "gvc": [
+    "RM-RK50"
+  ], 
+  "hama": [
+    "00095295", 
+    "Internet_Radio", 
+    "PhotoPlayer"
+  ], 
+  "hampton_bay": [
+    "UC7078T", 
+    "Window_AC"
+  ], 
+  "harman_kardon": [
+    "AVR10", 
+    "AVR210", 
+    "AVR240", 
+    "AVR25", 
+    "AVR320", 
+    "DVD_1_RC", 
+    "DVD_22", 
+    "HD730", 
+    "HD740", 
+    "HK3390", 
+    "HK680", 
+    "RIA101"
+  ], 
+  "harting_helling": [
+    "H+H_8in1"
+  ], 
+  "hauppauge": [
+    "DSR-0095", 
+    "DSR-0112", 
+    "MVP", 
+    "R808-HPG", 
+    "SupportPlus7", 
+    "WinTV-HVR_900", 
+    "hauppauge-stb", 
+    "hauppauge"
+  ], 
+  "hb": [
+    "DIGITAL"
+  ], 
+  "hello_kitty": [
+    "KT2337"
+  ], 
+  "hercules": [
+    "smarttv_stereo"
+  ], 
+  "hermstedt": [
+    "Hifidelio"
+  ], 
+  "hinen_electronics": [
+    "HSW0301"
+  ], 
+  "hip_interactive": [
+    "GE1002"
+  ], 
+  "hirschmann": [
+    "RC_426"
+  ], 
+  "hitachi": [
+    "898A", 
+    "CLE-941", 
+    "CLE-947", 
+    "CLU4341UG2", 
+    "CP-X345", 
+    "DV-RM335E", 
+    "FX-7", 
+    "RB-77", 
+    "RM-613a", 
+    "TV_VCR", 
+    "VM-rmE55A", 
+    "VM222", 
+    "VT-M410E", 
+    "VT-RM401E", 
+    "VT-RM621A", 
+    "VT-RM633E", 
+    "VT-RM783E", 
+    "VT-RM_728E"
+  ], 
+  "hivion": [
+    "SAT"
+  ], 
+  "hokkaido": [
+    "Airconditioner"
+  ], 
+  "home_cable": [
+    "HCC9300"
+  ], 
+  "homecast": [
+    "DVB-S", 
+    "DVB-T"
+  ], 
+  "hometech": [
+    "TV"
+  ], 
+  "horizont": [
+    "RC6-2"
+  ], 
+  "hot": [
+    "SET_TOP_BOX"
+  ], 
+  "hp": [
+    "DV4-1125NR", 
+    "DV6331", 
+    "HSTNN-PRO7", 
+    "Pavilion_m7682", 
+    "RC1762302-00", 
+    "RC1762307-01", 
+    "RC1762308-01B", 
+    "RC180491206", 
+    "RC2234302-01B", 
+    "hp-465539", 
+    "tx1000"
+  ], 
+  "hq": [
+    "RC_Univers25", 
+    "RC_Univers_20"
+  ], 
+  "hughes": [
+    "HIRD-B2", 
+    "HIRD-B2_GAEBO", 
+    "HRMC-8"
+  ], 
+  "humax": [
+    "5400IRCI", 
+    "F1-CI", 
+    "RC-536P", 
+    "RM-F04", 
+    "RS-101P", 
+    "RS-521", 
+    "RT-511V", 
+    "VACI-5300"
+  ], 
+  "huth": [
+    "RC7011"
+  ], 
+  "hyundai": [
+    "H-DVD5038N", 
+    "H-HT5111", 
+    "ImageQuest_L17T"
+  ], 
+  "i24": [
+    "I24"
+  ], 
+  "ibm": [
+    "HD23A"
+  ], 
+  "ice": [
+    "TV"
+  ], 
+  "illusion": [
+    "M3"
+  ], 
+  "imex": [
+    "IM-1010", 
+    "IM-1313", 
+    "IM-1313_027"
+  ], 
+  "imon": [
+    "imon-2", 
+    "imon-antec-veris", 
+    "imon-knob", 
+    "imon-mceusb", 
+    "imon-pad", 
+    "imon-rsc", 
+    "imon-ultrabay", 
+    "imon"
+  ], 
+  "infocus": [
+    "IRC_TC", 
+    "SP8600", 
+    "ScreenPlay_5000"
+  ], 
+  "insignia": [
+    "WIR147002-8301"
+  ], 
+  "interact": [
+    "I-22121"
+  ], 
+  "intervision": [
+    "Intervision"
+  ], 
+  "iodata": [
+    "gvbctv5pci"
+  ], 
+  "ione": [
+    "HTPC"
+  ], 
+  "irlink": [
+    "irlink"
+  ], 
+  "irobot": [
+    "Roomba", 
+    "Roomba_Discovery_4220", 
+    "Roomba_Discovery_SE"
+  ], 
+  "irradio": [
+    "HIFI_1300V"
+  ], 
+  "isp": [
+    "4187"
+  ], 
+  "italtel": [
+    "SAT"
+  ], 
+  "itt": [
+    "RC40", 
+    "RC51", 
+    "VR-3760"
+  ], 
+  "itv_media": [
+    "iTV_Control"
+  ], 
+  "jbl": [
+    "Harmony", 
+    "microremote"
+  ], 
+  "jerrold": [
+    "CFT2000", 
+    "MRC_500", 
+    "MRC_550", 
+    "RC-OSD", 
+    "RC_55-OSD", 
+    "RT-J50"
+  ], 
+  "jvc": [
+    "100331-AA", 
+    "6711R1P037A", 
+    "CA_E33", 
+    "Dish_Network", 
+    "HR-J52MS", 
+    "HR-S7600U", 
+    "JVC_4700", 
+    "JX-S700", 
+    "LP20106-002", 
+    "LP20303-009", 
+    "LP20337-004", 
+    "LP20337-013", 
+    "LP20465-005", 
+    "LP20878-009", 
+    "LP20878-014-VCR", 
+    "LP20878-016", 
+    "LP20978-008", 
+    "LP21036-039", 
+    "PQ10344CG", 
+    "PQ10543", 
+    "PQ10779", 
+    "PQ11534", 
+    "PQ21953A", 
+    "PQ21953F", 
+    "RM-C1100", 
+    "RM-C1251G", 
+    "RM-C360", 
+    "RM-C388", 
+    "RM-C410", 
+    "RM-C422", 
+    "RM-C462", 
+    "RM-C475W", 
+    "RM-C530", 
+    "RM-C601", 
+    "RM-C670", 
+    "RM-C678", 
+    "RM-C795", 
+    "RM-C860", 
+    "RM-RD1100", 
+    "RM-RK31", 
+    "RM-RK50", 
+    "RM-RK60", 
+    "RM-RP610", 
+    "RM-RX050", 
+    "RM-RX130", 
+    "RM-RX250", 
+    "RM-RXQ1002", 
+    "RM-RXQC7BKE", 
+    "RM-RXQW35", 
+    "RM-RXU1", 
+    "RM-RXUA4", 
+    "RM-RXUT200R", 
+    "RM-RXUV5R", 
+    "RM-RXUV9RMD", 
+    "RM-S9", 
+    "RM-SA5U", 
+    "RM-SE31", 
+    "RM-SED3SU", 
+    "RM-SED60TU", 
+    "RM-SEEXA1R", 
+    "RM-SEMD70RU", 
+    "RM-SEMX-44U", 
+    "RM-SEMXS3U", 
+    "RM-SEMXS6U", 
+    "RM-SES200U", 
+    "RM-SES3OU", 
+    "RM-SES60U", 
+    "RM-SES700RU", 
+    "RM-SFSG5J", 
+    "RM-SFSSD7R", 
+    "RM-SHXD77J", 
+    "RM-SMXJ100E", 
+    "RM-SMXJ950R", 
+    "RM-SR509U", 
+    "RM-SR518U", 
+    "RM-SRX5022U", 
+    "RM-SUXP5R", 
+    "RM-SUXS57R", 
+    "RM-SVSDT6R", 
+    "RM-SX334U", 
+    "RM-SXV008J", 
+    "RM-SXV08J", 
+    "RM-SXVS40A", 
+    "RM-V1E", 
+    "RM-V717U", 
+    "RM-V718U", 
+    "RM-V730U", 
+    "SXV037J"
+  ], 
+  "kanam_accent": [
+    "IR-100", 
+    "kanam_accent"
+  ], 
+  "kaon": [
+    "KSC-i260MCO", 
+    "KTF-100CO", 
+    "KTF-I2001CO"
+  ], 
+  "kathrein": [
+    "RCU-676", 
+    "UFD400"
+  ], 
+  "kawa": [
+    "TV"
+  ], 
+  "kendo": [
+    "RC_610"
+  ], 
+  "kenmore": [
+    "kenmore_253_79081"
+  ], 
+  "kenwin": [
+    "unknown"
+  ], 
+  "kenwood": [
+    "AVREC", 
+    "RC-1001", 
+    "RC-160", 
+    "RC-206", 
+    "RC-47", 
+    "RC-553e", 
+    "RC-56", 
+    "RC-601", 
+    "RC-6030", 
+    "RC-701R", 
+    "RC-790", 
+    "RC-A0400", 
+    "RC-C2", 
+    "RC-D0705", 
+    "RC-E5", 
+    "RC-F0100", 
+    "RC-F2", 
+    "RC-G3", 
+    "RC-H2R", 
+    "RC-H7R", 
+    "RC-LVD930R", 
+    "RC-M0301", 
+    "RC-P030", 
+    "RC-P0400", 
+    "RC-P070", 
+    "RC-P0700", 
+    "RC-P0702", 
+    "RC-P0715", 
+    "RC-P2030", 
+    "RC-P600", 
+    "RC-P6630", 
+    "RC-P800", 
+    "RC-P87", 
+    "RC-R0311E", 
+    "RC-R0502", 
+    "RC-R0503", 
+    "RC-R0505", 
+    "RC-R0517", 
+    "RC-R0602", 
+    "RC-R0614", 
+    "RC-R0623", 
+    "RC-R0708", 
+    "RC-R0721", 
+    "RC-R0813", 
+    "RC-R0825", 
+    "RC-R0900", 
+    "RC-RO711", 
+    "RC-S0504", 
+    "RC-S0900", 
+    "RC-SA70", 
+    "RC-V8500L", 
+    "RC_R0307"
+  ], 
+  "khl": [
+    "REC-R3000"
+  ], 
+  "kingman": [
+    "10in1", 
+    "12in1_299", 
+    "12in1_336"
+  ], 
+  "kiss": [
+    "DP-1500s"
+  ], 
+  "knc_one": [
+    "knc_one"
+  ], 
+  "kodak": [
+    "RC-201"
+  ], 
+  "konig": [
+    "IR_9490", 
+    "IR_9836"
+  ], 
+  "konka": [
+    "KK-Y199", 
+    "KK-Y250A"
+  ], 
+  "korting": [
+    "0099N1"
+  ], 
+  "kosmos": [
+    "STR1050"
+  ], 
+  "kworld": [
+    "ATSC_110", 
+    "DVB-T_210", 
+    "DVBT-220", 
+    "DVBT-PE310", 
+    "PCI_Analog_TV_Card_Lite"
+  ], 
+  "l&s;_electronic": [
+    "HS-910"
+  ], 
+  "l+s": [
+    "LS_20101", 
+    "LS_30775"
+  ], 
+  "lacie": [
+    "Lacinema_Premier", 
+    "PNE-N1SS"
+  ], 
+  "lasonic": [
+    "R-2000"
+  ], 
+  "leadership": [
+    "GOTEC_3801"
+  ], 
+  "leadtek": [
+    "PVR2000", 
+    "RM-0007", 
+    "RM-0010", 
+    "Y0400046", 
+    "Y0400052", 
+    "Y04G0004", 
+    "Y04G0033"
+  ], 
+  "lemon": [
+    "Volksbox"
+  ], 
+  "lenco": [
+    "PPS_2024_CD"
+  ], 
+  "lenovo": [
+    "RC2292601_01"
+  ], 
+  "lexicon": [
+    "750-10978"
+  ], 
+  "lg": [
+    "42H3000", 
+    "6710CDAL01G", 
+    "6710CDAP01B", 
+    "6710T00003B", 
+    "6710T00009B", 
+    "6710V00005G", 
+    "6710V00008K", 
+    "6710V00049G", 
+    "6710V00067G", 
+    "6710V00070A", 
+    "6710V00088B", 
+    "6710V00090D", 
+    "6710V00090N", 
+    "6710V00091N", 
+    "6710V00133A", 
+    "6711A20015N", 
+    "6711R1P070B", 
+    "6711R1P072B", 
+    "AKB33871420", 
+    "AKB69680", 
+    "AKB69680403", 
+    "AKB72915207", 
+    "AKB73715601", 
+    "AKB74475403", 
+    "BC205P", 
+    "BD300", 
+    "CC470TW", 
+    "CL172TW", 
+    "EC970W", 
+    "EV230", 
+    "MKJ32022805", 
+    "MKJ39170805", 
+    "MKJ40653802", 
+    "MKJ40653807", 
+    "MKJ61842704", 
+    "PBAFA0189A", 
+    "SERVICE_MENU", 
+    "VF28"
+  ], 
+  "life-view": [
+    "Flyvideo_3000", 
+    "flyvideo"
+  ], 
+  "lifesat": [
+    "T_28"
+  ], 
+  "lifetec": [
+    "LT4033", 
+    "LT9096", 
+    "Mini-Hifi-Station", 
+    "RC2000"
+  ], 
+  "lightingever": [
+    "LE-IP66"
+  ], 
+  "linksys": [
+    "WMA11B-R"
+  ], 
+  "loewe": [
+    "150_TV", 
+    "Dialog_control", 
+    "FB200", 
+    "FB_3000"
+  ], 
+  "logitech": [
+    "HarmonyOne", 
+    "Harmony_520", 
+    "Harmony_655", 
+    "Z-5500D", 
+    "logitech"
+  ], 
+  "lpi": [
+    "pcremote"
+  ], 
+  "lutron": [
+    "GRX-IT", 
+    "MaestroIR"
+  ], 
+  "luxor": [
+    "DV405"
+  ], 
+  "m3_electronic": [
+    "Muvid_DVD-209"
+  ], 
+  "mstation": [
+    "mStation"
+  ], 
+  "macro_image_technology": [
+    "MyHD"
+  ], 
+  "magnasonic": [
+    "TV"
+  ], 
+  "magnavox": [
+    "MDV450", 
+    "MFX-450", 
+    "NA387", 
+    "TV_XK4353_CH02", 
+    "VR9360"
+  ], 
+  "magnum": [
+    "5520VT"
+  ], 
+  "majestic": [
+    "DVX377USB"
+  ], 
+  "manhattan": [
+    "DVD_MT_2215", 
+    "TV_MT_5154"
+  ], 
+  "manta": [
+    "DVD-002", 
+    "DVD-007"
+  ], 
+  "marantz": [
+    "RC-1400", 
+    "RC-6200-DV", 
+    "RC-63CD", 
+    "RC-65CD", 
+    "RC-72CD", 
+    "RC1400-MD", 
+    "RC4000CD", 
+    "RC4300CC", 
+    "RC8000PM", 
+    "RMC-73"
+  ], 
+  "mark": [
+    "TV"
+  ], 
+  "marmitek": [
+    "connect_310"
+  ], 
+  "mas": [
+    "HSD-303", 
+    "HSD-400", 
+    "HSD400", 
+    "RC-0135"
+  ], 
+  "mbo": [
+    "10-in-1"
+  ], 
+  "mceusb": [
+    "mceusb"
+  ], 
+  "mcl": [
+    "Remote_Controller"
+  ], 
+  "media-tech": [
+    "RUMBA_5"
+  ], 
+  "medion": [
+    "2020", 
+    "JX-2006B", 
+    "MD-5410", 
+    "MD_3830", 
+    "MD_41169", 
+    "MD_41666", 
+    "MD_4688", 
+    "MD_4689", 
+    "MD_81035", 
+    "MD_81880", 
+    "MD_9025", 
+    "OR30V", 
+    "RC2000"
+  ], 
+  "megatron": [
+    "FM105"
+  ], 
+  "melectronic": [
+    "PP3600"
+  ], 
+  "meliconi": [
+    "Control_4", 
+    "Facile", 
+    "Speedy", 
+    "Speedy2", 
+    "Universal_3"
+  ], 
+  "meos": [
+    "unknown-32button"
+  ], 
+  "meridian": [
+    "MSR"
+  ], 
+  "metronic": [
+    "060501", 
+    "SAT_441400"
+  ], 
+  "metz": [
+    "RA51"
+  ], 
+  "microsoft": [
+    "Xbox", 
+    "Xbox360", 
+    "Xbox_MCE", 
+    "Xbox_PG-8012"
+  ], 
+  "minolta": [
+    "RC3"
+  ], 
+  "miro": [
+    "MIRO_PCTV_pro"
+  ], 
+  "mitaki": [
+    "43"
+  ], 
+  "mitochiba": [
+    "JX-9902", 
+    "KF220100"
+  ], 
+  "mitsubishi": [
+    "CD-2015C", 
+    "CS-2047R", 
+    "CT21AM2(A)", 
+    "DIVA29", 
+    "HD1000", 
+    "HS-349", 
+    "HS640V", 
+    "RM561V", 
+    "RM_75501", 
+    "RM_M25-43303", 
+    "RM_M25-43306"
+  ], 
+  "mivar": [
+    "x1"
+  ], 
+  "moneual": [
+    "Moncaso_312"
+  ], 
+  "monoprice": [
+    "monoprice_hdx(c)-501e"
+  ], 
+  "morgan's_daytona": [
+    "T15", 
+    "Tornado"
+  ], 
+  "motorola": [
+    "920", 
+    "DCH3200", 
+    "DCH3416", 
+    "DCT2000", 
+    "DCT2224", 
+    "DCT2244", 
+    "DCT2524", 
+    "DCT6200", 
+    "DRC800", 
+    "DTA100", 
+    "DTH320-4", 
+    "DTH355", 
+    "DVi2030", 
+    "DigitalCable", 
+    "IRC442", 
+    "IRC451", 
+    "Millenium_4_Universal", 
+    "QIP2500", 
+    "QIP6200-2", 
+    "RC1445302-00B-REV2", 
+    "SRC-200A", 
+    "VIP_1200", 
+    "VIP_1510"
+  ], 
+  "ms-tech": [
+    "HTPC", 
+    "MCx00"
+  ], 
+  "msi": [
+    "Media_Center", 
+    "MegaPC_180", 
+    "Mega_PC", 
+    "TV@nywhere"
+  ], 
+  "mtlogic": [
+    "CDCL-72"
+  ], 
+  "multi_canal": [
+    "DCC2000"
+  ], 
+  "multichoice": [
+    "DSD910"
+  ], 
+  "multitec": [
+    "1030"
+  ], 
+  "mustek": [
+    "DVD_R_100_LM", 
+    "RMC-V300", 
+    "RMC-V500"
+  ], 
+  "mvision": [
+    "FCIS7000E+"
+  ], 
+  "nad": [
+    "451", 
+    "AVR2", 
+    "CDP-5425", 
+    "RC512", 
+    "SR6", 
+    "SR712"
+  ], 
+  "nagra": [
+    "TVA_Digital"
+  ], 
+  "nakamichi": [
+    "CDPlayer4", 
+    "Egg", 
+    "RM-2CD"
+  ], 
+  "napa": [
+    "DAV-309"
+  ], 
+  "national": [
+    "VEQ0461"
+  ], 
+  "nebula_electronics": [
+    "DigiTV"
+  ], 
+  "nec": [
+    "RB-34P", 
+    "RB-73A", 
+    "RB-D1G", 
+    "RB-D3A", 
+    "RB-DV22", 
+    "RC-1065E", 
+    "RC-1067E", 
+    "RC-1070E", 
+    "RC-1077E", 
+    "RC-1080E", 
+    "RC-1083E", 
+    "RC-334E", 
+    "RC-6010", 
+    "RC-6051", 
+    "RC-6321", 
+    "RD-1077E", 
+    "RD-1078E", 
+    "RD-1083E", 
+    "RD-335E", 
+    "RD-337E", 
+    "RD-343E", 
+    "RD-348E", 
+    "RD-409E", 
+    "RD-427E", 
+    "RU-1220S", 
+    "TRB-103", 
+    "TRB-31", 
+    "TRB-60", 
+    "TRB-968A", 
+    "UR-3020"
+  ], 
+  "netgem": [
+    "iPlayer"
+  ], 
+  "nextwave": [
+    "EX-300"
+  ], 
+  "nikko": [
+    "NK-1000"
+  ], 
+  "nikon": [
+    "ML-L3"
+  ], 
+  "no_brand": [
+    "YK-001"
+  ], 
+  "nokia": [
+    "DBOX", 
+    "DBOX2", 
+    "MM9600", 
+    "MM9780S", 
+    "MM9802S", 
+    "MM9850T", 
+    "RCN610", 
+    "RCN_624", 
+    "SCN600", 
+    "VCN620", 
+    "VCR_3018_CE", 
+    "VC_620"
+  ], 
+  "norcent": [
+    "DP_311"
+  ], 
+  "nordmende": [
+    "VCR"
+  ], 
+  "northq": [
+    "6400"
+  ], 
+  "now_broadband_tv": [
+    "DECODER", 
+    "SETTOP-BOX"
+  ], 
+  "nse": [
+    "URC20-C8", 
+    "URC22B-12", 
+    "URC22B-7"
+  ], 
+  "ntl": [
+    "DI4001N"
+  ], 
+  "nubert": [
+    "AW-800"
+  ], 
+  "nvidia": [
+    "Personal_Cinema"
+  ], 
+  "oceanic": [
+    "TV"
+  ], 
+  "octaltv": [
+    "WebTV"
+  ], 
+  "olevia": [
+    "RC-LTFN", 
+    "RC-LTL"
+  ], 
+  "olympus": [
+    "RM-1", 
+    "RM-2"
+  ], 
+  "one_for_all": [
+    "URC-10820", 
+    "URC-2510", 
+    "URC-2560", 
+    "URC-3021B00", 
+    "URC-3440", 
+    "URC-4220", 
+    "URC-5065", 
+    "URC-5550", 
+    "URC-6012", 
+    "URC-6012w", 
+    "URC-6131nwB00", 
+    "URC-7020", 
+    "URC-7020_0083", 
+    "URC-7030", 
+    "URC-7240", 
+    "URC-7510-2", 
+    "URC-7510", 
+    "URC-7530", 
+    "URC-7550", 
+    "URC-7555", 
+    "URC-7560", 
+    "URC-7562", 
+    "URC-7562a", 
+    "URC-7562b", 
+    "URC-7710", 
+    "URC-7730", 
+    "URC-7740", 
+    "URC-7830", 
+    "URC-8040", 
+    "URC-8060-Sat-0200", 
+    "URC-8200B00", 
+    "URC-8203", 
+    "URC-8204", 
+    "URC-8910", 
+    "URC7040_Phillips_0081_VCR", 
+    "URC_7720", 
+    "ZAPPER"
+  ], 
+  "onida": [
+    "DFX_7100", 
+    "TVE_21"
+  ], 
+  "onkyo": [
+    "RC-104C", 
+    "RC-146T", 
+    "RC-184s", 
+    "RC-205S", 
+    "RC-211S", 
+    "RC-217C", 
+    "RC-246C", 
+    "RC-252S", 
+    "RC-283S", 
+    "RC-295S", 
+    "RC-302S", 
+    "RC-308C", 
+    "RC-314S", 
+    "RC-333c", 
+    "RC-340C", 
+    "RC-344S", 
+    "RC-385S", 
+    "RC-425DV", 
+    "RC-447M", 
+    "RC-453S", 
+    "RC-478M", 
+    "RC-50", 
+    "RC-606S", 
+    "RC-632M", 
+    "RC-651M", 
+    "RC-662S", 
+    "RC-682M", 
+    "RC-710M", 
+    "RC-735M", 
+    "RC-738M", 
+    "RC-866M", 
+    "Remote_Interactive", 
+    "Remote_Interactive_TX-SR505SE", 
+    "TX-L5"
+  ], 
+  "optex": [
+    "ORT_8790"
+  ], 
+  "optimus": [
+    "STAV-3560"
+  ], 
+  "optoma": [
+    "hd600x"
+  ], 
+  "orava": [
+    "RC_5219"
+  ], 
+  "orion": [
+    "RC-08", 
+    "RC-57", 
+    "RC-BM", 
+    "RC-CB", 
+    "TV-713"
+  ], 
+  "oritron": [
+    "DVD"
+  ], 
+  "osram": [
+    "OSRAM"
+  ], 
+  "pace": [
+    "DC420N", 
+    "DC551P", 
+    "DC621KU", 
+    "DI4001N", 
+    "DI4010I", 
+    "DIGIBOX", 
+    "DS420", 
+    "DS620", 
+    "DS830NS", 
+    "DTA100", 
+    "MKT900A-A00", 
+    "MSS1000_IRD", 
+    "MSS300", 
+    "PACEMSS", 
+    "PRC100", 
+    "PSR800", 
+    "PSR900", 
+    "RC-10", 
+    "RC-17", 
+    "RC-24", 
+    "RC-30", 
+    "TDS460NNZ", 
+    "Twin_Digital_TV_Recorder", 
+    "XSAT_CDTV410"
+  ], 
+  "packard_bell": [
+    "packard_bell"
+  ], 
+  "palcom": [
+    "DSL-6_T"
+  ], 
+  "palladium": [
+    "RC-BM"
+  ], 
+  "palmbutler": [
+    "RC1154101_00"
+  ], 
+  "panasat": [
+    "IRD_DSD_1110"
+  ], 
+  "panasonic": [
+    "AMP", 
+    "CarAudio_CARC60EX", 
+    "DSS", 
+    "DVD", 
+    "EUR50350", 
+    "EUR511211", 
+    "EUR511224", 
+    "EUR511300", 
+    "EUR511515A", 
+    "EUR51169", 
+    "EUR51920", 
+    "EUR571100", 
+    "EUR571110", 
+    "EUR571451", 
+    "EUR571465", 
+    "EUR571739", 
+    "EUR571756", 
+    "EUR57510", 
+    "EUR642162", 
+    "EUR642181", 
+    "EUR642182", 
+    "EUR642195", 
+    "EUR643800", 
+    "EUR643804", 
+    "EUR643820", 
+    "EUR643824", 
+    "EUR643826", 
+    "EUR644340", 
+    "EUR644344", 
+    "EUR644550", 
+    "EUR644660", 
+    "EUR64485", 
+    "EUR644853", 
+    "EUR64595", 
+    "EUR648100", 
+    "EUR648251", 
+    "EUR7502XJO", 
+    "EUR7613Z6A", 
+    "EUR7617010", 
+    "EUR7621010", 
+    "EUR7623X70", 
+    "EUR7628010", 
+    "EUR7628030AR", 
+    "EUR7631010", 
+    "EUR7635010", 
+    "EUR7662Y80", 
+    "EUR7702110", 
+    "EUR7702KE0", 
+    "EUR7702KF0", 
+    "EUR7711110", 
+    "EUR7720KL0", 
+    "EUR7724KF0", 
+    "EUR7914Z20", 
+    "LSSQ0225", 
+    "LSSQ0226", 
+    "MINI_STEREO", 
+    "N2QADC000006", 
+    "N2QAEC000012", 
+    "N2QAGB000001", 
+    "N2QAGB000002", 
+    "N2QAGB000015", 
+    "N2QAGB000016", 
+    "N2QAHB000022", 
+    "N2QAHB0048", 
+    "N2QAJB000051", 
+    "N2QAKB000001", 
+    "N2QAKB000043", 
+    "N2QAKB000044", 
+    "N2QAYB000010", 
+    "N2QAYB000048", 
+    "N2QAYB000064", 
+    "N2QAYB000128", 
+    "N2QAYB000239", 
+    "N2QAYB000329", 
+    "N2QAYB000644", 
+    "N2QAYB000976", 
+    "NV-F65_HQ", 
+    "NV-FJ610", 
+    "NV-HS830", 
+    "NV-SD225", 
+    "NV-SD44", 
+    "Omnivision", 
+    "QuintrixF", 
+    "RAK-RX309W", 
+    "RAK-RX314W", 
+    "RAK-RX318W", 
+    "RAK-RX928WK", 
+    "RAK-SC957WK", 
+    "RC331401", 
+    "RC4346_01B", 
+    "RCR_195_DC1", 
+    "RX-ED70", 
+    "SA-AK25", 
+    "SA-PM02", 
+    "TC-21E1R", 
+    "TNQ2637", 
+    "TNQ8E0437", 
+    "TNQ8E0445", 
+    "TNQ8E0461-2", 
+    "TU-TC20", 
+    "TV", 
+    "TX-25MK1", 
+    "TX-28CK2F", 
+    "TX29AD10C", 
+    "VCR", 
+    "VEQ0422", 
+    "VEQ0520", 
+    "VEQ0534", 
+    "VEQ0552", 
+    "VEQ0573", 
+    "VEQ0615", 
+    "VEQ0709", 
+    "VEQ0744", 
+    "VEQ0910", 
+    "VEQ1100", 
+    "VEQ1141", 
+    "VEQ1253", 
+    "VEQ1309", 
+    "VEQ1448", 
+    "VEQ1475", 
+    "VEQ1562", 
+    "VEQ1656", 
+    "VEQ1697", 
+    "VEQ1873", 
+    "VEQ1883", 
+    "VEQ1944", 
+    "VEQ1956", 
+    "VEQ1962", 
+    "VEQ1993", 
+    "VEQ2051", 
+    "VEQ2138", 
+    "VEQ2142", 
+    "VEQ2224", 
+    "VEQ2249", 
+    "VEQ2380", 
+    "VEQ2398", 
+    "VSQ0407", 
+    "VSQS0531", 
+    "VSQS0905", 
+    "VSQS1451", 
+    "VSQS1480", 
+    "VSQS1559", 
+    "VSQ_0305", 
+    "Viera-42PZ700U"
+  ], 
+  "panda": [
+    "DVD-6838"
+  ], 
+  "pansat": [
+    "2500A", 
+    "2700", 
+    "2700a", 
+    "SD3500"
+  ], 
+  "parex": [
+    "IR9703"
+  ], 
+  "pc_expert_tech": [
+    "MKB975"
+  ], 
+  "pcmak": [
+    "pcmak"
+  ], 
+  "peekton": [
+    "IR6005"
+  ], 
+  "philco": [
+    "PCR-111"
+  ], 
+  "philex": [
+    "RC208-1"
+  ], 
+  "philips": [
+    "15PF4121", 
+    "17PT1563_43", 
+    "26PFL5604H", 
+    "28PT7207", 
+    "29PT5507", 
+    "313911877610", 
+    "32PFL5403D-12", 
+    "32PFL9613D", 
+    "5373", 
+    "AV5609", 
+    "AV5662_67", 
+    "AV5680", 
+    "AZ2407", 
+    "BDP3000", 
+    "BDP3490_12", 
+    "C380", 
+    "CD720", 
+    "CL304", 
+    "DVD-712", 
+    "DVD-724", 
+    "DVD711", 
+    "DVDR3570H", 
+    "DVP-5982", 
+    "DVP-642", 
+    "FA920", 
+    "FR731", 
+    "FW11", 
+    "FW2015", 
+    "FW_362", 
+    "FW_530C", 
+    "Gold_BOX", 
+    "HTS3544", 
+    "HV92", 
+    "KW-1009-01", 
+    "LCD_TV_DISCRETE", 
+    "N0340UD", 
+    "N9201PD", 
+    "N9250UD", 
+    "NO314UD", 
+    "PHDVD5", 
+    "PM335", 
+    "PM725S", 
+    "PMDVD6T", 
+    "PRC-01-AJ040641", 
+    "R-48F01", 
+    "RC-2012", 
+    "RC-5", 
+    "RC-7843", 
+    "RC-J20PHIL-00-00", 
+    "RC-S224", 
+    "RC07102_01", 
+    "RC07104_01", 
+    "RC0786_01", 
+    "RC0797_01", 
+    "RC19002", 
+    "RC19039001", 
+    "RC19041003", 
+    "RC19042002", 
+    "RC19237006", 
+    "RC19335003_01P", 
+    "RC19420002_01", 
+    "RC2034302-01", 
+    "RC2050_01", 
+    "RC2070", 
+    "RC2084401_01", 
+    "RC2143601", 
+    "RC2525_01", 
+    "RC25271", 
+    "RC2543_01", 
+    "RC2563_01", 
+    "RC2580", 
+    "RC2582", 
+    "RC2592", 
+    "RC282422S", 
+    "RC282425", 
+    "RC283501", 
+    "RC331702_01", 
+    "RC380", 
+    "RC4302", 
+    "RC4330_01H", 
+    "RC4492_01B", 
+    "RC4496_01", 
+    "RC4702", 
+    "RC5-BP6", 
+    "RC5260", 
+    "RC5300", 
+    "RC5371", 
+    "RC5901", 
+    "RC5903", 
+    "RC5910", 
+    "RC5932", 
+    "RC5991", 
+    "RC6830", 
+    "RC7507", 
+    "RC7535", 
+    "RC7843", 
+    "RC7925_01", 
+    "RC8205_01", 
+    "RC8243_01", 
+    "RC8244", 
+    "RC8601_01", 
+    "RC8861", 
+    "RC9050", 
+    "RC9076", 
+    "RC9901", 
+    "RCL9BC_JJ03", 
+    "RCL9EA", 
+    "RCLE011", 
+    "RCLE012", 
+    "RC_7537", 
+    "RC_7540_00N", 
+    "RD5860", 
+    "RD5862", 
+    "RD6831", 
+    "RD6834", 
+    "RD6835", 
+    "RD6844", 
+    "RD_6830", 
+    "RH6640_01", 
+    "RH6822_00", 
+    "RM2517", 
+    "RT111_101", 
+    "RT150_211", 
+    "RT167_101", 
+    "RT174_101", 
+    "RT183_201", 
+    "RT192_101", 
+    "RT25184_101", 
+    "RT260_95", 
+    "RT567_104", 
+    "RT736", 
+    "RT750_114", 
+    "RT8967_01", 
+    "RT952", 
+    "SBC_RP420", 
+    "SBC_RU12", 
+    "SBC_RU_258_II", 
+    "SBC_RU_4", 
+    "SBC_RU_422_III", 
+    "SBC_RU_510_U", 
+    "SBC_RU_520", 
+    "SBC_RU_540", 
+    "SBC_RU_545_00", 
+    "SBC_RU_760", 
+    "SBC_RU_865", 
+    "SBS_RU_880_00", 
+    "SF172_200", 
+    "SRM5100", 
+    "SRP5004_86", 
+    "SRU_5060", 
+    "SRU_510", 
+    "SRU_530", 
+    "STO_130A", 
+    "TIVO", 
+    "TIVO34", 
+    "TV", 
+    "TV1", 
+    "TV2", 
+    "TV3", 
+    "TV4", 
+    "U352", 
+    "VCR1", 
+    "VCR2", 
+    "VCR3", 
+    "VCR4", 
+    "VCR5", 
+    "VR1000", 
+    "VR175", 
+    "VR256", 
+    "VR510", 
+    "VR522", 
+    "VR6000", 
+    "VR610", 
+    "srm7500libusb", 
+    "uDigital-20CT6555"
+  ], 
+  "phonotrend": [
+    "Prestige_DVD2788"
+  ], 
+  "pinnacle_systems": [
+    "PCTV", 
+    "PCTV_800i", 
+    "PCTV_USB_STICK", 
+    "RC-42D", 
+    "RC1144201_00", 
+    "mini", 
+    "pctv"
+  ], 
+  "pioneer": [
+    "AXD-1531", 
+    "AXD-7305", 
+    "AXD-7306", 
+    "CD", 
+    "CU-A001", 
+    "CU-A002", 
+    "CU-A009", 
+    "CU-A011", 
+    "CU-A019", 
+    "CU-CLD067", 
+    "CU-CLD106", 
+    "CU-CLD115", 
+    "CU-DV042", 
+    "CU-PD008", 
+    "CU-PD038", 
+    "CU-PD045", 
+    "CU-PD046", 
+    "CU-PD052", 
+    "CU-PD069", 
+    "CU-PD085", 
+    "CU-PD089", 
+    "CU-PD096", 
+    "CU-SX022", 
+    "CU-SX039", 
+    "CU-SX070", 
+    "CU-SX091", 
+    "CU-SX092", 
+    "CU-SX109", 
+    "CU-VSX107", 
+    "CU-VSX159", 
+    "CU-XC004", 
+    "CU-XR014", 
+    "CU-XR015", 
+    "CU-XR019", 
+    "CU-XR032", 
+    "CU-XR039", 
+    "CU-XR050", 
+    "DBR-S210F", 
+    "DEH-D8850", 
+    "PD-202", 
+    "PD-F1007", 
+    "PD-M650", 
+    "RU-V103", 
+    "SR-90", 
+    "UR4-P360", 
+    "VSX9300", 
+    "VXX2910", 
+    "VXX2914", 
+    "XXD3051"
+  ], 
+  "pipi": [
+    "PiPiPC"
+  ], 
+  "pixelview": [
+    "playtv", 
+    "playtv_bt878", 
+    "playtv_pro", 
+    "remotemaster"
+  ], 
+  "playmobil": [
+    "large-crane"
+  ], 
+  "plu2": [
+    "DVX-345pro"
+  ], 
+  "polaroid": [
+    "DVP-1000"
+  ], 
+  "pollin": [
+    "810-024"
+  ], 
+  "proplay": [
+    "PS2"
+  ], 
+  "proscan": [
+    "PSVR72"
+  ], 
+  "protek": [
+    "SAT"
+  ], 
+  "provideo": [
+    "PV951", 
+    "pv951"
+  ], 
+  "provision": [
+    "PR-DVD2", 
+    "PRDVD2166"
+  ], 
+  "q-sonic": [
+    "Master_Remote_6in1", 
+    "Master_Remote_PC_166", 
+    "Master_Remote_PC_TV"
+  ], 
+  "quadral": [
+    "RC-804"
+  ], 
+  "rademacher": [
+    "9490"
+  ], 
+  "radio_shack": [
+    "4-in-1_2142", 
+    "5-in-1", 
+    "5-in-1_2115", 
+    "AB_Switcher", 
+    "kit-1-and-2"
+  ], 
+  "radix": [
+    "2AD", 
+    "Alpha_10_20", 
+    "DT-X1", 
+    "DTR-9000-Twin", 
+    "SAT", 
+    "SAT1"
+  ], 
+  "raite": [
+    "DVD"
+  ], 
+  "ranex": [
+    "RGB_LED_LAMP_6000"
+  ], 
+  "rc-5": [
+    "RC-5-a", 
+    "RC-5-extented", 
+    "RC-5"
+  ], 
+  "rca": [
+    "33379-1", 
+    "CRK76CA2", 
+    "D770", 
+    "DB200", 
+    "DSS", 
+    "DSS_RG_RH", 
+    "DTA800B1", 
+    "DTA800b", 
+    "Dish_Network", 
+    "F20507CP", 
+    "R130A1", 
+    "RCA312W", 
+    "RCR160SBM1", 
+    "RCR311TCM1", 
+    "RCR504BR", 
+    "RCR815", 
+    "RCU410WMS", 
+    "RCU600M", 
+    "RCU600RS", 
+    "RCZ_111_SJ1G", 
+    "RS2300", 
+    "TV_VCR", 
+    "VR637HF"
+  ], 
+  "re.x": [
+    "SDVD_926G"
+  ], 
+  "recor": [
+    "TV-4025"
+  ], 
+  "rega": [
+    "Solar"
+  ], 
+  "remotec": [
+    "BW6130", 
+    "RM200-AUX", 
+    "RM200-SAT", 
+    "RM200-TV", 
+    "RM200-VCR", 
+    "RM200", 
+    "RM900", 
+    "VCR-1072"
+  ], 
+  "replaytv": [
+    "5000"
+  ], 
+  "revo": [
+    "Blik"
+  ], 
+  "revoy": [
+    "Revoy_2200"
+  ], 
+  "rft": [
+    "TV553"
+  ], 
+  "rio": [
+    "Rio_Audio"
+  ], 
+  "roadstar": [
+    "DVD_2020H", 
+    "LTD-1580XKLUS"
+  ], 
+  "robotron": [
+    "RCS-9085"
+  ], 
+  "roku": [
+    "N1000-04", 
+    "Netflix_Player", 
+    "Soundbridge"
+  ], 
+  "rolsen": [
+    "DK5A", 
+    "K10B-C1"
+  ], 
+  "rotel": [
+    "RR-925"
+  ], 
+  "rowa": [
+    "RDVD104"
+  ], 
+  "rubin": [
+    "54M03"
+  ], 
+  "ruwido": [
+    "Cyberclick", 
+    "Easytip_2", 
+    "Easytip_z1"
+  ], 
+  "sab": [
+    "Explorer"
+  ], 
+  "saba": [
+    "RC6X03FE", 
+    "TC3003", 
+    "TC460", 
+    "TC521", 
+    "TC545", 
+    "m100"
+  ], 
+  "sagem": [
+    "CABLE_DECODER", 
+    "DVB-T-Receiver", 
+    "HD103-C"
+  ], 
+  "salora": [
+    "PayTV", 
+    "RC-8800", 
+    "RC-D3-02", 
+    "SV6700", 
+    "VCN621"
+  ], 
+  "samsung": [
+    "00008E", 
+    "00011k", 
+    "00021C", 
+    "00025G", 
+    "00049C", 
+    "00052B", 
+    "00054d", 
+    "00056A", 
+    "00071F", 
+    "00077A", 
+    "00092B", 
+    "00092M", 
+    "00093G", 
+    "00104J", 
+    "00104K", 
+    "00198F", 
+    "00225A", 
+    "0070-63", 
+    "01043A", 
+    "10095T", 
+    "10107N", 
+    "10116A", 
+    "10141A", 
+    "10329K", 
+    "10340G", 
+    "10419K", 
+    "3F14-00048-180", 
+    "528Z", 
+    "633-205", 
+    "AA59-00316b", 
+    "AA59-00370A", 
+    "AA59-00382A", 
+    "AA59-00489A", 
+    "AA59-00600A", 
+    "AA59-10026E", 
+    "AA64-50236A", 
+    "AH59-00043E", 
+    "AH59-01527F", 
+    "AH59-02345A", 
+    "AH64-01045A", 
+    "ARH-700", 
+    "BN59-00507A", 
+    "BN59-00516A", 
+    "BN59-00538A", 
+    "BN59-00599A", 
+    "BN59-00603A-STB", 
+    "BN59-00603A", 
+    "BN59-00609A", 
+    "BN59-00634A", 
+    "BN59-00678A", 
+    "BN59-00683A", 
+    "BN59-00685A", 
+    "BN59-00856A", 
+    "BN59-00861A", 
+    "BN59-00865A", 
+    "BN59-00869A", 
+    "BN59-00937A", 
+    "BN59-00940A", 
+    "BN59-01054A", 
+    "BN59-01175B", 
+    "BRM-E1E", 
+    "CS-25M6HNQ", 
+    "Dynaflat_TV", 
+    "HLN507W", 
+    "MF59-00242B", 
+    "MF59-00242C", 
+    "MF59-00291a", 
+    "PR3914", 
+    "PR_427", 
+    "RCD-M70", 
+    "SCM-8900", 
+    "SFT-702E", 
+    "SIR-S300W", 
+    "SMT-H3050", 
+    "SMT1000T", 
+    "SV-411X", 
+    "SV-610X", 
+    "SV-70XK", 
+    "SV-DVD3E", 
+    "SVR-40D", 
+    "SVR-80D", 
+    "T-59", 
+    "TM-33", 
+    "TM-59", 
+    "VR8708", 
+    "VXK-336", 
+    "aa59-00741a", 
+    "samsung"
+  ], 
+  "samy": [
+    "SDX1100"
+  ], 
+  "sansonic": [
+    "FT-300A"
+  ], 
+  "sansui": [
+    "RS-S103"
+  ], 
+  "sanyo": [
+    "A05800", 
+    "B01004", 
+    "B01007", 
+    "B12628", 
+    "B13509", 
+    "B13537", 
+    "B13540", 
+    "B20501", 
+    "B28001", 
+    "CTP-6791P", 
+    "CTP_6633", 
+    "CXKT", 
+    "CXWY", 
+    "IR-5211", 
+    "JXMTA", 
+    "JXZB", 
+    "N9377", 
+    "RB-DA300", 
+    "RB-SL22", 
+    "RC-105C", 
+    "RC700", 
+    "RMT-U100", 
+    "TV", 
+    "TV2", 
+    "US-038-S", 
+    "VCR-9270", 
+    "VHR-766G"
+  ], 
+  "sasem": [
+    "sasem"
+  ], 
+  "satelco": [
+    "EasyWatch"
+  ], 
+  "schneider": [
+    "FB2000", 
+    "FESTIVAL2000", 
+    "Music-Center", 
+    "RC-114", 
+    "RC-116", 
+    "RC-193", 
+    "RC202", 
+    "RC206", 
+    "RC901", 
+    "RC902", 
+    "SVC568RC"
+  ], 
+  "schwaiger": [
+    "DSR_6020"
+  ], 
+  "scientific_atlanta": [
+    "1840", 
+    "3250", 
+    "AT8400", 
+    "E940", 
+    "Explorer_2000", 
+    "Explorer_8300_HD", 
+    "RC-U49C+", 
+    "RM9834", 
+    "RNG-150"
+  ], 
+  "scott": [
+    "DVD-837", 
+    "DVD-838"
+  ], 
+  "seg": [
+    "CT2802", 
+    "CTV_3281-100_VTS", 
+    "DVD-430", 
+    "E6900-X020A", 
+    "SEG-VCR4300", 
+    "SEG_97P1R2CCF0", 
+    "SR-021", 
+    "SR-040", 
+    "SR800", 
+    "VCR2000", 
+    "VR-F2PA"
+  ], 
+  "seiko": [
+    "MDL-1100RM"
+  ], 
+  "sejin_electron": [
+    "SWP-D3956W-KR1"
+  ], 
+  "sencor": [
+    "sencor_sfn9011sl"
+  ], 
+  "sezam": [
+    "HST317", 
+    "cuberevo"
+  ], 
+  "sgi": [
+    "4-042-281"
+  ], 
+  "shannon": [
+    "SWK-8630"
+  ], 
+  "sharp": [
+    "1781", 
+    "G0006AJ", 
+    "G0009AJ", 
+    "G0048TA", 
+    "G0206AJ", 
+    "G0247AJ", 
+    "G0379GE", 
+    "G0412GE", 
+    "G0641CESA", 
+    "G0715UM", 
+    "G0742GE", 
+    "G0797CESA", 
+    "G0927AJ", 
+    "G0938CESA", 
+    "G096GE", 
+    "G1014BMSA", 
+    "G1023BMSA", 
+    "G1044BMSA", 
+    "G1046BMSA", 
+    "G1051BMSA", 
+    "G1059SA", 
+    "G1071SA", 
+    "G1084PESA", 
+    "G1208AJ", 
+    "G1220", 
+    "G1324SA", 
+    "GA006SA", 
+    "GA035SB", 
+    "GA339WJSA", 
+    "GA447SA", 
+    "GA538WJSA", 
+    "GJ210", 
+    "LC-20V1RU", 
+    "R-CONT1616A", 
+    "RRMCG0012SJSB", 
+    "RRMCG0041SJSA", 
+    "RRMCG0101AJSA", 
+    "RRMCG0186AFSA", 
+    "RRMCG0199GESA", 
+    "RRMCG0229AWSA", 
+    "RRMCG0235AJSB", 
+    "RRMCG0356AWSA", 
+    "RRMCGA030WJSA", 
+    "VC-1594B"
+  ], 
+  "sharpsat": [
+    "T28"
+  ], 
+  "sherwood": [
+    "CD_1063-TR", 
+    "GC-1205", 
+    "GC-1285", 
+    "RM-101", 
+    "RM-636", 
+    "RM-RV-98", 
+    "RM-RV-N25", 
+    "RM-RVD-98L", 
+    "RM-RX-23_43", 
+    "S2770R-CP-II"
+  ], 
+  "shinco": [
+    "RC-1730"
+  ], 
+  "shuttle": [
+    "PN31", 
+    "RC11B"
+  ], 
+  "siemens": [
+    "FB31top", 
+    "FB33ATS", 
+    "FB400", 
+    "FB405", 
+    "FM_638"
+  ], 
+  "sigma_designs": [
+    "realmagic"
+  ], 
+  "sigmatek": [
+    "X100", 
+    "XMB-510-PRO"
+  ], 
+  "silent-gliss": [
+    "autoglide-5090"
+  ], 
+  "silitek": [
+    "silitek"
+  ], 
+  "silvercrest": [
+    "RCH7S52", 
+    "URC-801"
+  ], 
+  "sirius": [
+    "SBKB-3201KR", 
+    "Sportster", 
+    "Starmate_Replay_ST2"
+  ], 
+  "sitronics": [
+    "RC-D010E"
+  ], 
+  "sky": [
+    "NAVIGATOR", 
+    "Navigator", 
+    "Rev4", 
+    "SKY+_DVB-S", 
+    "SkyHD", 
+    "Sky_Rev_6"
+  ], 
+  "skymaster": [
+    "2416", 
+    "2417_2419", 
+    "2421", 
+    "2424", 
+    "DCI_9410", 
+    "DXL9300", 
+    "XL10", 
+    "XL15", 
+    "XLS_99"
+  ], 
+  "slim_art": [
+    "SA-100"
+  ], 
+  "slim_devices": [
+    "Squeezebox3"
+  ], 
+  "smoovietv": [
+    "SMOOVIETV"
+  ], 
+  "snapstream": [
+    "Firefly-Mini"
+  ], 
+  "snazio": [
+    "Net_DVD_Cinema_HD"
+  ], 
+  "solidtek": [
+    "ACK-581"
+  ], 
+  "sonicview": [
+    "SV-1000", 
+    "SV-360"
+  ], 
+  "sony": [
+    "839", 
+    "AMPIR", 
+    "CMT-CP100", 
+    "CONRAD_CD000", 
+    "DAT", 
+    "DVP-S505", 
+    "KV_32LS35E", 
+    "RM-470", 
+    "RM-606", 
+    "RM-673", 
+    "RM-687C", 
+    "RM-689", 
+    "RM-694", 
+    "RM-783", 
+    "RM-816", 
+    "RM-827T", 
+    "RM-830", 
+    "RM-831", 
+    "RM-833", 
+    "RM-836", 
+    "RM-839", 
+    "RM-860", 
+    "RM-861", 
+    "RM-862", 
+    "RM-870", 
+    "RM-873", 
+    "RM-883", 
+    "RM-887", 
+    "RM-893", 
+    "RM-921", 
+    "RM-932", 
+    "RM-934", 
+    "RM-935", 
+    "RM-947", 
+    "RM-AAU014", 
+    "RM-ADP074", 
+    "RM-AV2000", 
+    "RM-AV2100T", 
+    "RM-AV3000", 
+    "RM-D1000", 
+    "RM-D10P", 
+    "RM-D15M", 
+    "RM-D170", 
+    "RM-D17M", 
+    "RM-D190", 
+    "RM-D1M", 
+    "RM-D2100", 
+    "RM-D250", 
+    "RM-D270", 
+    "RM-D27M", 
+    "RM-D295", 
+    "RM-D29M", 
+    "RM-D302", 
+    "RM-D315", 
+    "RM-D320", 
+    "RM-D325", 
+    "RM-D335", 
+    "RM-D350A", 
+    "RM-D391", 
+    "RM-D420", 
+    "RM-D450", 
+    "RM-D490", 
+    "RM-D49M", 
+    "RM-D5", 
+    "RM-D520", 
+    "RM-D55", 
+    "RM-D55A", 
+    "RM-D57A", 
+    "RM-D597", 
+    "RM-D670A", 
+    "RM-D706", 
+    "RM-D720", 
+    "RM-D791", 
+    "RM-D797", 
+    "RM-D7M", 
+    "RM-D820", 
+    "RM-D90", 
+    "RM-D921", 
+    "RM-D991", 
+    "RM-DM7", 
+    "RM-DM9", 
+    "RM-DX200", 
+    "RM-DX220", 
+    "RM-DX300", 
+    "RM-DX50", 
+    "RM-DX740", 
+    "RM-ED006", 
+    "RM-ED009", 
+    "RM-ED011", 
+    "RM-ED019", 
+    "RM-ED035", 
+    "RM-J701", 
+    "RM-L310", 
+    "RM-P362", 
+    "RM-PJP1", 
+    "RM-PJVW10", 
+    "RM-PP402", 
+    "RM-PP411", 
+    "RM-PP860", 
+    "RM-S100", 
+    "RM-S103", 
+    "RM-S11", 
+    "RM-S112", 
+    "RM-S150", 
+    "RM-S160", 
+    "RM-S22", 
+    "RM-S29", 
+    "RM-S29E", 
+    "RM-S300", 
+    "RM-S311", 
+    "RM-S315", 
+    "RM-S325", 
+    "RM-S33", 
+    "RM-S343", 
+    "RM-S375X", 
+    "RM-S44", 
+    "RM-S530", 
+    "RM-S55", 
+    "RM-S6", 
+    "RM-S609", 
+    "RM-S61", 
+    "RM-S702", 
+    "RM-S705", 
+    "RM-S737", 
+    "RM-SC1", 
+    "RM-SD25-3", 
+    "RM-SD50", 
+    "RM-SD70", 
+    "RM-SD80", 
+    "RM-SE1AV", 
+    "RM-SE7AV", 
+    "RM-SED2", 
+    "RM-SG20", 
+    "RM-SG5", 
+    "RM-SG7", 
+    "RM-SM100EW", 
+    "RM-SR100", 
+    "RM-SR210", 
+    "RM-SR231", 
+    "RM-SR8", 
+    "RM-SRB5", 
+    "RM-SS800", 
+    "RM-SSP55", 
+    "RM-SV215D", 
+    "RM-SV236", 
+    "RM-U204", 
+    "RM-U25", 
+    "RM-U264", 
+    "RM-U265", 
+    "RM-U302", 
+    "RM-U303", 
+    "RM-U305", 
+    "RM-U305C", 
+    "RM-U306A", 
+    "RM-U33AV", 
+    "RM-U541", 
+    "RM-V10T", 
+    "RM-V11", 
+    "RM-V111T", 
+    "RM-V202", 
+    "RM-V210", 
+    "RM-V211T", 
+    "RM-V301", 
+    "RM-V302", 
+    "RM-V310", 
+    "RM-V402", 
+    "RM-VZ950T", 
+    "RM-W100", 
+    "RM-W101", 
+    "RM-X30", 
+    "RM-X40", 
+    "RM-X42", 
+    "RM-X47", 
+    "RM-X95", 
+    "RM-Y103", 
+    "RM-Y116", 
+    "RM-Y118", 
+    "RM-Y135", 
+    "RM-Y139", 
+    "RM-Y155B", 
+    "RM-Y168", 
+    "RM-Y173", 
+    "RM-Y180", 
+    "RM-Y181", 
+    "RM-Y800", 
+    "RM-Y812", 
+    "RM-YD003", 
+    "RM-YD010", 
+    "RM-YD017", 
+    "RM-YD024", 
+    "RM-sep303", 
+    "RMT-136", 
+    "RMT-502", 
+    "RMT-504", 
+    "RMT-506", 
+    "RMT-708", 
+    "RMT-713", 
+    "RMT-809", 
+    "RMT-812", 
+    "RMT-814", 
+    "RMT-831", 
+    "RMT-835", 
+    "RMT-B101A", 
+    "RMT-B104P", 
+    "RMT-C202", 
+    "RMT-C205AD", 
+    "RMT-C301", 
+    "RMT-C305AD", 
+    "RMT-C350", 
+    "RMT-C380", 
+    "RMT-C565", 
+    "RMT-C767", 
+    "RMT-CE95AD", 
+    "RMT-CF1A", 
+    "RMT-CS200A", 
+    "RMT-CS33AD", 
+    "RMT-CS33R", 
+    "RMT-CS47AD", 
+    "RMT-CZW770AD", 
+    "RMT-D100A", 
+    "RMT-D114A", 
+    "RMT-D115P", 
+    "RMT-D116P", 
+    "RMT-D126A", 
+    "RMT-D126E", 
+    "RMT-D129A", 
+    "RMT-D141P", 
+    "RMT-D142P", 
+    "RMT-D143E", 
+    "RMT-D153A", 
+    "RMT-D155A", 
+    "RMT-D156P", 
+    "RMT-D157P", 
+    "RMT-D173A", 
+    "RMT-DRS11", 
+    "RMT-DSC2", 
+    "RMT-M12A", 
+    "RMT-M22", 
+    "RMT-V102", 
+    "RMT-V107", 
+    "RMT-V108", 
+    "RMT-V115A", 
+    "RMT-V117", 
+    "RMT-V124", 
+    "RMT-V141K", 
+    "RMT-V145A", 
+    "RMT-V153B", 
+    "RMT-V154F", 
+    "RMT-V155C", 
+    "RMT-V159", 
+    "RMT-V159J", 
+    "RMT-V161", 
+    "RMT-V164A", 
+    "RMT-V166-TV", 
+    "RMT-V166-VTR", 
+    "RMT-V173C", 
+    "RMT-V181A", 
+    "RMT-V181D", 
+    "RMT-V181N", 
+    "RMT-V186D", 
+    "RMT-V189", 
+    "RMT-V202", 
+    "RMT-V202A", 
+    "RMT-V207C", 
+    "RMT-V223", 
+    "RMT-V231A", 
+    "RMT-V245A", 
+    "RMT-V256", 
+    "RMT-V256A", 
+    "RMT-V257B", 
+    "RMT-V259K", 
+    "RMT-V266", 
+    "RMT-V270", 
+    "RMT-V288", 
+    "RMT-V402A", 
+    "RMT-V406", 
+    "RMT-V406B", 
+    "RMT-V501A", 
+    "RMT-V501E", 
+    "RMT-V676B", 
+    "RMT-V767", 
+    "RMT_CYN7AD", 
+    "SCPH-10130", 
+    "SCPH-10150", 
+    "SCPH-10420", 
+    "STR-DE205", 
+    "STR-DE635", 
+    "SWK-8660", 
+    "TUNER", 
+    "TV", 
+    "V164G-TV", 
+    "V500_VPL-W400", 
+    "VaioRemote"
+  ], 
+  "sonyir": [
+    "sonyir"
+  ], 
+  "speed-link": [
+    "SL-4112", 
+    "SL-6399"
+  ], 
+  "st": [
+    "DTTRC-4", 
+    "HMP_7109"
+  ], 
+  "starhub": [
+    "ABQ-1H57-SCV"
+  ], 
+  "starsat": [
+    "120"
+  ], 
+  "starview": [
+    "Starview_I"
+  ], 
+  "streamzap": [
+    "PC_Remote", 
+    "streamzap"
+  ], 
+  "strong": [
+    "ZapBox"
+  ], 
+  "sumvision": [
+    "DVD"
+  ], 
+  "sun": [
+    "RMC-D10"
+  ], 
+  "sungale": [
+    "JX-2002"
+  ], 
+  "supermax": [
+    "CABLE_BOX"
+  ], 
+  "supersqny": [
+    "KM-168"
+  ], 
+  "supportplus": [
+    "RC9", 
+    "SP-URC-81-L", 
+    "SP-URC-LCD-F15"
+  ], 
+  "supra": [
+    "RM-L1120"
+  ], 
+  "sven": [
+    "HT-475", 
+    "IHOO_MT_5"
+  ], 
+  "syabas": [
+    "A-100"
+  ], 
+  "symphonic": [
+    "N9291", 
+    "SE4250"
+  ], 
+  "system76": [
+    "Bonobo"
+  ], 
+  "t+a": [
+    "F1", 
+    "F100"
+  ], 
+  "t-online": [
+    "S100"
+  ], 
+  "tab_electronics": [
+    "Robot_Kit"
+  ], 
+  "tascam": [
+    "RC-31", 
+    "RC-401"
+  ], 
+  "tcm": [
+    "204-479", 
+    "212845", 
+    "TCM_218681", 
+    "TCM_225925", 
+    "TCM_225926", 
+    "TCM_96518", 
+    "TCM_96518_439"
+  ], 
+  "tcuag": [
+    "TVOON"
+  ], 
+  "teac": [
+    "DMP", 
+    "PD-D900", 
+    "RC-1091", 
+    "RC-547", 
+    "RC-548", 
+    "RC-558", 
+    "RC-614", 
+    "RC-909", 
+    "UR-417"
+  ], 
+  "technics": [
+    "EUR642100", 
+    "EUR643861", 
+    "EUR643880", 
+    "EUR643900", 
+    "EUR645273", 
+    "EUR645275", 
+    "EUR646497", 
+    "EUR64713", 
+    "EUR64796", 
+    "EUR64798", 
+    "EUR64799", 
+    "EURXP300", 
+    "RAK-CH115WH", 
+    "RAK-CH144WH", 
+    "RAK-CH215WH", 
+    "RAK-CH220WH", 
+    "RAK-CH426WH", 
+    "RAK-CH745WH", 
+    "RAK-EHA16WH", 
+    "RAK-HDB04WH", 
+    "RAK-SA612WH", 
+    "RAK-SC304W", 
+    "RAK-SC510W", 
+    "RAK-SL948WK", 
+    "RAK-SU301W", 
+    "RAK_SU129WH", 
+    "SA-DX950", 
+    "SL-PS670A"
+  ], 
+  "technisat": [
+    "100TS008", 
+    "100TS023", 
+    "100TS035", 
+    "100TS036", 
+    "103TS103", 
+    "FBPNA35", 
+    "FBPVR335A", 
+    "FBTV235S", 
+    "ST3002S", 
+    "ST_6000_E", 
+    "TS35", 
+    "TTS35AI", 
+    "mediafocusI"
+  ], 
+  "technoline": [
+    "TL-1062"
+  ], 
+  "technosonic": [
+    "DVD-204"
+  ], 
+  "technotrend": [
+    "DVB_S2-3200", 
+    "Micro_S202", 
+    "REMOTE", 
+    "S2400", 
+    "TV-Card"
+  ], 
+  "teco": [
+    "TZRM67G"
+  ], 
+  "tekram": [
+    "m230"
+  ], 
+  "telecom_italia": [
+    "Sirio"
+  ], 
+  "telefunken": [
+    "FB1320", 
+    "FB1550", 
+    "FB270", 
+    "IR3000", 
+    "MB2100", 
+    "RC1132", 
+    "RC1323-VIDEO-B", 
+    "RC7106M", 
+    "RC_1127", 
+    "RC_5104N", 
+    "TC141", 
+    "TV", 
+    "TVRC_1345_TOP", 
+    "VZ901", 
+    "lcd-tv-unknown"
+  ], 
+  "teleka": [
+    "STR_2060"
+  ], 
+  "telenet": [
+    "DB-AD100", 
+    "DB-AD110"
+  ], 
+  "televes": [
+    "145075", 
+    "711701"
+  ], 
+  "tensai": [
+    "5340fb", 
+    "TVR_260"
+  ], 
+  "terratec": [
+    "1400_DVB-T", 
+    "Cinergy_1400-T", 
+    "Cinergy_C_PCI_HD", 
+    "Cinergy_DT_USB_XS_Diversity", 
+    "Cinergy_S2_PCI_HD", 
+    "Cinergy_T2", 
+    "Cinergy_TV", 
+    "HomeArena_5", 
+    "M3PO"
+  ], 
+  "tesla": [
+    "32LCD70WDGHD", 
+    "49-900-023", 
+    "TV", 
+    "VCR"
+  ], 
+  "teufel": [
+    "DC5RC"
+  ], 
+  "tevii": [
+    "S650_DVB-S2_USB"
+  ], 
+  "tevion": [
+    "DFA_2005", 
+    "DVD2001", 
+    "DVD2002", 
+    "DVD_4000", 
+    "MD6461", 
+    "MD7110", 
+    "MD80383", 
+    "MD81302", 
+    "MDC-982PLL", 
+    "MD_3607", 
+    "MD_3830", 
+    "MD_41666_782", 
+    "MD_41666_860", 
+    "MD_4689", 
+    "MD_80383", 
+    "MD_81035", 
+    "MD_81299", 
+    "RS20536", 
+    "SAT928", 
+    "TDR-250HD", 
+    "TDR51DV", 
+    "TE-0603", 
+    "TEV1020", 
+    "TV_DVD_5506_RF"
+  ], 
+  "thermaltake": [
+    "MediaLAB"
+  ], 
+  "thinkgeek": [
+    "LIGHTBULB"
+  ], 
+  "thompson": [
+    "TIVO_THOMPSON"
+  ], 
+  "thomson": [
+    "DCI104ICS", 
+    "KCT5000", 
+    "RC111TA1G", 
+    "RC4208x", 
+    "RC8002N", 
+    "RC8003N", 
+    "RC8005M", 
+    "RCS615TCLM1", 
+    "RCT100", 
+    "RCT102", 
+    "RCT110D_A1", 
+    "RCT2100", 
+    "RCT3004", 
+    "RCT311DA2", 
+    "RCT4130S", 
+    "RCT443_MN1", 
+    "RCT_311_SC1G", 
+    "RCT_311_SE1G", 
+    "ROC-3205", 
+    "ROC230", 
+    "ROC3205", 
+    "ROC340", 
+    "ROC40", 
+    "ROC45", 
+    "ROC740", 
+    "ROC85", 
+    "ROC_1404", 
+    "TC99", 
+    "TM9258", 
+    "mb_100"
+  ], 
+  "time_warner_cable": [
+    "RT-59C", 
+    "UR4-P360", 
+    "ur5u-8700l", 
+    "ur5u-8780L"
+  ], 
+  "tinydeal": [
+    "85-265V"
+  ], 
+  "tivii": [
+    "TiVii_650"
+  ], 
+  "tivo": [
+    "DTV36", 
+    "TIVO", 
+    "TIVO_Glo", 
+    "TIVO_Series_1", 
+    "TIVO_Series_2"
+  ], 
+  "tivoli": [
+    "Sirius"
+  ], 
+  "tokai": [
+    "DVD-715"
+  ], 
+  "topfield": [
+    "PVR_5000", 
+    "TF4000Fi", 
+    "TF4000PVR"
+  ], 
+  "topseed": [
+    "RM-VR1"
+  ], 
+  "toshiba": [
+    "CT-816", 
+    "CT-826", 
+    "CT-832", 
+    "CT-835S", 
+    "CT-847", 
+    "CT-859", 
+    "CT-865", 
+    "CT-90003", 
+    "CT-90038", 
+    "CT-90047", 
+    "CT-90101", 
+    "CT-90159", 
+    "CT-90205", 
+    "CT-90275", 
+    "CT-90287", 
+    "CT-90298", 
+    "CT-90325", 
+    "CT-90326", 
+    "CT-90388", 
+    "CT-9347", 
+    "CT-9573", 
+    "CT-9758", 
+    "CT-9784", 
+    "CT-9873", 
+    "CT-9881", 
+    "CT-9922", 
+    "CT-9945", 
+    "CT-9952", 
+    "CT-9954", 
+    "DC-SBH2", 
+    "G83C0008A110", 
+    "RM-614Q", 
+    "RM-A210", 
+    "RMV-329", 
+    "SE-R0031", 
+    "SE-R0047", 
+    "SE-R0049", 
+    "SE-R0058", 
+    "SE-R0090", 
+    "SE-R0127", 
+    "SE-R0313", 
+    "TDP-S2", 
+    "TSR-101R", 
+    "VC-222T", 
+    "VC-642T", 
+    "VC-65", 
+    "VC-65T", 
+    "VC-685", 
+    "VC-752", 
+    "VC-90B", 
+    "VCR-2230", 
+    "VT-11", 
+    "VT-12", 
+    "VT-204G", 
+    "VT-209W", 
+    "VT-75F"
+  ], 
+  "total_control": [
+    "11-1208R00"
+  ], 
+  "total_media_in_hand": [
+    "DVB-T"
+  ], 
+  "traxis": [
+    "3500"
+  ], 
+  "triax": [
+    "DVB_40S"
+  ], 
+  "trice": [
+    "TR-302"
+  ], 
+  "trio": [
+    "xms007"
+  ], 
+  "trust": [
+    "RC-2400"
+  ], 
+  "trutech": [
+    "TV"
+  ], 
+  "turtlebeach": [
+    "audiotron"
+  ], 
+  "twinhan": [
+    "AD-SP200", 
+    "DTV", 
+    "MagicBox"
+  ], 
+  "typhoon": [
+    "RC-0718-3", 
+    "Starbox"
+  ], 
+  "uec": [
+    "DVB_SAT"
+  ], 
+  "uei": [
+    "DVR-1055"
+  ], 
+  "ultrawave": [
+    "3500PFTA"
+  ], 
+  "umax": [
+    "D-701"
+  ], 
+  "uniden": [
+    "UDS200r"
+  ], 
+  "united": [
+    "DMC7290", 
+    "DVD4057M"
+  ], 
+  "universal": [
+    "846M", 
+    "8in1", 
+    "AV7-RZ-506", 
+    "CME", 
+    "CV150", 
+    "CV250", 
+    "CV300_089", 
+    "CV300_102", 
+    "CV300_111", 
+    "GumBody", 
+    "ISP_4187", 
+    "Knopex", 
+    "LT_3607", 
+    "MAXY1708", 
+    "MC-10", 
+    "MELICONI_PERSONAL", 
+    "Promo2_006", 
+    "R7", 
+    "RC_Univers_20", 
+    "REMOTE_MASTER_1000_0171", 
+    "REMOTE_MASTER_1000_0432", 
+    "RM-786", 
+    "RM-V211T", 
+    "RZ-55", 
+    "SupportPlus", 
+    "TCM_64745", 
+    "TCM_96518_439", 
+    "UR24A", 
+    "URC-6012w", 
+    "URC-7532", 
+    "URC22B", 
+    "URC_R5"
+  ], 
+  "universum": [
+    "B21421", 
+    "FT8180", 
+    "FT8180A", 
+    "RC-0892_00", 
+    "SR420", 
+    "STEREO", 
+    "TV", 
+    "VCR", 
+    "VR743A", 
+    "VR_2796", 
+    "VR_2959"
+  ], 
+  "upc": [
+    "SAT"
+  ], 
+  "vantage": [
+    "X2-YC01N"
+  ], 
+  "venturer": [
+    "CD1832", 
+    "STB7766G1"
+  ], 
+  "vestel": [
+    "SF118", 
+    "TV"
+  ], 
+  "video7": [
+    "RC750"
+  ], 
+  "videologic": [
+    "RM-201"
+  ], 
+  "viewmaster": [
+    "RC-03"
+  ], 
+  "viewmaxpro": [
+    "CABLE_BOX"
+  ], 
+  "viewsat": [
+    "SAT", 
+    "VS2000_Extreme"
+  ], 
+  "viewsonic": [
+    "98TR7BD-ONT-VSF", 
+    "N3200w", 
+    "NextVision6", 
+    "RC00070P"
+  ], 
+  "virgin-media": [
+    "tivo-remote"
+  ], 
+  "visionetics": [
+    "Cable_Box"
+  ], 
+  "vistron": [
+    "DVD-5211", 
+    "LTM-3271E"
+  ], 
+  "vitek": [
+    "Vitek"
+  ], 
+  "vivanco": [
+    "UR2", 
+    "UR_89", 
+    "Viv"
+  ], 
+  "vizio": [
+    "LCD_TV", 
+    "VUR8", 
+    "VX37L"
+  ], 
+  "vlsystem": [
+    "mplay"
+  ], 
+  "voxson": [
+    "DVD250"
+  ], 
+  "vu": [
+    "40D6575"
+  ], 
+  "watson": [
+    "FA_3619", 
+    "FA_5150", 
+    "FA_7039"
+  ], 
+  "wd": [
+    "HDTVMediaPlayerV1", 
+    "KWSB0865F101", 
+    "TV_Live"
+  ], 
+  "westinghouse": [
+    "LVM-47W1", 
+    "RMT-05"
+  ], 
+  "wilfa": [
+    "RVC-17"
+  ], 
+  "x10": [
+    "atilibusb", 
+    "atiusb", 
+    "mouseremote", 
+    "mp3anywhere"
+  ], 
+  "xlogic": [
+    "KF8000D"
+  ], 
+  "xms": [
+    "XMS503"
+  ], 
+  "xoro": [
+    "DVB_210_T"
+  ], 
+  "xsat": [
+    "XSAT_CDTV410"
+  ], 
+  "xtreamer": [
+    "Xtreamer"
+  ], 
+  "yakumo": [
+    "DVD_Master_DX4"
+  ], 
+  "yamada": [
+    "DVX-6xxx", 
+    "PRM-400"
+  ], 
+  "yamaha": [
+    "AVPhile_715_RC", 
+    "AX-960", 
+    "CDX-493", 
+    "CDX-570", 
+    "DSP-A1000", 
+    "DSP-A970", 
+    "R-V1105", 
+    "RAV-12", 
+    "RAV14", 
+    "RAV16", 
+    "RAV190", 
+    "RAV207", 
+    "RAV215", 
+    "RAV243", 
+    "RAV283", 
+    "RAV285", 
+    "RAV294", 
+    "RAV300", 
+    "RAV302", 
+    "RAV322", 
+    "RAV364", 
+    "RAX16", 
+    "RAX6", 
+    "RAX7", 
+    "RAX9", 
+    "RC-X660", 
+    "RC-X750", 
+    "RCX", 
+    "RCX2", 
+    "RS-CD5", 
+    "RS-CDX910", 
+    "RS-CX1000", 
+    "RS-CX600", 
+    "RS-K3", 
+    "RS-KR4", 
+    "RS-KX1", 
+    "RX-395-RDS", 
+    "RX-450", 
+    "RX-CX1000", 
+    "RX-CX800", 
+    "RX-V377", 
+    "RX-V495", 
+    "RX-V850", 
+    "RX-V995", 
+    "TV", 
+    "TX-1000", 
+    "V215230", 
+    "V499920", 
+    "VI47320", 
+    "VI77760", 
+    "VJ59810", 
+    "VJI5420", 
+    "VK34080", 
+    "VK38010", 
+    "VM70290", 
+    "VM70300", 
+    "VP37310", 
+    "VP37320", 
+    "VP59040", 
+    "VP59250", 
+    "VP60840", 
+    "VP79430", 
+    "VP84950", 
+    "VQ08640", 
+    "VQ95010", 
+    "VR09390", 
+    "VR50590-CX1", 
+    "VR50590", 
+    "VR81350", 
+    "VS54120", 
+    "VS71360", 
+    "VT06460", 
+    "VT97430", 
+    "VU07410", 
+    "VU07420", 
+    "VU50620", 
+    "VU71330", 
+    "VV27520", 
+    "VV48620", 
+    "VY71850", 
+    "rax26"
+  ], 
+  "yamakawa": [
+    "DVD-285VGA"
+  ], 
+  "yes": [
+    "URC-39765_B00"
+  ], 
+  "yuan": [
+    "SmartVDO"
+  ], 
+  "zalman": [
+    "HD160XT"
+  ], 
+  "zehnder": [
+    "BX-299"
+  ], 
+  "zenith": [
+    "AKB36157102", 
+    "C32V37", 
+    "MBR-3447", 
+    "TV", 
+    "VCR", 
+    "VCR1", 
+    "ZN110", 
+    "ZN5015"
+  ], 
+  "zolid": [
+    "ZOL100"
+  ], 
+  "zoltrix": [
+    "zoltrix"
+  ], 
+  "zotac": [
+    "zotac"
+  ], 
+  "zyxel": [
+    "DMA-1000"
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "ads": [
+    "Instant_TV_DVB-T", 
+    "PTV-350"
+  ], 
+  "aiwa": [
+    "RC-TV2"
+  ], 
+  "akai": [
+    "TV"
+  ], 
+  "anitech": [
+    "TV_M3740"
+  ], 
+  "asus": [
+    "TVBox", 
+    "asus"
+  ], 
+  "avermedia": [
+    "AVerTV_Box_5", 
+    "Studio_203", 
+    "avermedia98", 
+    "tvstudio"
+  ], 
+  "beko": [
+    "NR_KK14T61_TX"
+  ], 
+  "beon": [
+    "Colour_TV"
+  ], 
+  "cce": [
+    "HPS-2290"
+  ], 
+  "commodore": [
+    "CDTV"
+  ], 
+  "conrad": [
+    "MF_150", 
+    "Promo-8"
+  ], 
+  "curtis_electronics": [
+    "TV"
+  ], 
+  "daewoo": [
+    "14Q3_TV"
+  ], 
+  "directv": [
+    "G051204", 
+    "H23", 
+    "HD20-100", 
+    "RC16", 
+    "RC24", 
+    "RC32"
+  ], 
+  "durabrand": [
+    "PTV141"
+  ], 
+  "ei": [
+    "TV90"
+  ], 
+  "emerson": [
+    "076m056100"
+  ], 
+  "finlux": [
+    "3628"
+  ], 
+  "ge": [
+    "TV-25CT511"
+  ], 
+  "gigabyte": [
+    "TV"
+  ], 
+  "goldstar": [
+    "TV", 
+    "TV_VCR"
+  ], 
+  "grandin": [
+    "TV"
+  ], 
+  "grundig": [
+    "TP_715", 
+    "TP_720", 
+    "TVP_763"
+  ], 
+  "harting_helling": [
+    "H+H_8in1"
+  ], 
+  "hauppauge": [
+    "DSR-0112", 
+    "WinTV-HVR_900", 
+    "hauppauge"
+  ], 
+  "hercules": [
+    "smarttv_stereo"
+  ], 
+  "hitachi": [
+    "VM222"
+  ], 
+  "ibm": [
+    "HD23A"
+  ], 
+  "ice": [
+    "TV"
+  ], 
+  "imex": [
+    "IM-1313_027"
+  ], 
+  "iodata": [
+    "gvbctv5pci"
+  ], 
+  "isp": [
+    "4187"
+  ], 
+  "itv_media": [
+    "iTV_Control"
+  ], 
+  "jvc": [
+    "LP20337-004", 
+    "LP20878-016"
+  ], 
+  "kawa": [
+    "TV"
+  ], 
+  "kworld": [
+    "PCI_Analog_TV_Card_Lite"
+  ], 
+  "lg": [
+    "6711R1P070B", 
+    "6711R1P072B", 
+    "AKB33871420", 
+    "MKJ39170805", 
+    "MKJ40653802", 
+    "MKJ61842704"
+  ], 
+  "loewe": [
+    "150_TV", 
+    "FB200"
+  ], 
+  "magnasonic": [
+    "TV"
+  ], 
+  "manhattan": [
+    "TV_MT_5154"
+  ], 
+  "mitsubishi": [
+    "CT21AM2(A)", 
+    "DIVA29"
+  ], 
+  "motorola": [
+    "920"
+  ], 
+  "nagra": [
+    "TVA_Digital"
+  ], 
+  "now_broadband_tv": [
+    "DECODER", 
+    "SETTOP-BOX"
+  ], 
+  "octaltv": [
+    "WebTV"
+  ], 
+  "one_for_all": [
+    "URC-2560", 
+    "URC-4220", 
+    "ZAPPER",
+    "URC-5065" 
+  ], 
+  "onida": [
+    "TVE_21"
+  ], 
+  "orion": [
+    "TV-713"
+  ], 
+  "panasonic": [
+    "EUR50350", 
+    "EUR511224", 
+    "EUR511515A", 
+    "EUR571739", 
+    "EUR571756", 
+    "EUR7502XJO", 
+    "N2QAYB000128", 
+    "N2QAYB000644"
+  ], 
+  "pansat": [
+    "SD3500"
+  ], 
+  "philips": [
+    "HV92", 
+    "LCD_TV_DISCRETE", 
+    "RC2525_01", 
+    "RC2580", 
+    "RC4302", 
+    "RC4330_01H", 
+    "RC8601_01", 
+    "SBC_RU_545_00", 
+    "TV", 
+    "TV1", 
+    "TV2", 
+    "TV3", 
+    "TV4", 
+    "U352", 
+    "VR610"
+  ], 
+  "pinnacle_systems": [
+    "PCTV", 
+    "PCTV_800i", 
+    "PCTV_USB_STICK", 
+    "pctv"
+  ], 
+  "pioneer": [
+    "CU-VSX107"
+  ], 
+  "pixelview": [
+    "playtv_pro"
+  ], 
+  "rca": [
+    "D770", 
+    "RCA312W", 
+    "TV_VCR"
+  ], 
+  "remotec": [
+    "RM200-TV"
+  ], 
+  "replaytv": [
+    "5000"
+  ], 
+  "rft": [
+    "TV553"
+  ], 
+  "saba": [
+    "m100"
+  ], 
+  "salora": [
+    "PayTV"
+  ], 
+  "samsung": [
+    "10340G", 
+    "BN59-00516A", 
+    "BN59-00599A", 
+    "Dynaflat_TV", 
+    "SIR-S300W", 
+    "aa59-00741a"
+  ], 
+  "sanyo": [
+    "TV", 
+    "TV2"
+  ], 
+  "scientific_atlanta": [
+    "3250"
+  ], 
+  "seg": [
+    "CTV_3281-100_VTS"
+  ], 
+  "sharp": [
+    "G1208AJ", 
+    "G1324SA"
+  ], 
+  "skymaster": [
+    "2421"
+  ], 
+  "smoovietv": [
+    "SMOOVIETV"
+  ], 
+  "sony": [
+    "RM-783", 
+    "RM-827T", 
+    "RM-934", 
+    "RM-AV2100T", 
+    "RM-U306A", 
+    "RM-V11", 
+    "RM-V202", 
+    "RM-V310", 
+    "RM-V402", 
+    "RM-Y103", 
+    "RM-Y168", 
+    "RM-YD017", 
+    "RMT-D143E", 
+    "RMT-D153A", 
+    "RMT-D157P", 
+    "RMT-V102", 
+    "RMT-V108", 
+    "RMT-V145A", 
+    "RMT-V166-TV", 
+    "RMT-V189", 
+    "RMT-V256", 
+    "RMT-V256A", 
+    "RMT-V259K", 
+    "RMT-V266", 
+    "RMT-V402A", 
+    "RMT-V501E", 
+    "SWK-8660", 
+    "TV", 
+    "V164G-TV"
+  ], 
+  "supportplus": [
+    "RC9"
+  ], 
+  "tcuag": [
+    "TVOON"
+  ], 
+  "teac": [
+    "DMP"
+  ], 
+  "technics": [
+    "EUR643861"
+  ], 
+  "technisat": [
+    "100TS036", 
+    "FBTV235S"
+  ], 
+  "telefunken": [
+    "RC_1127", 
+    "TV", 
+    "TVRC_1345_TOP", 
+    "lcd-tv-unknown"
+  ], 
+  "tevion": [
+    "MD_4689", 
+    "TV_DVD_5506_RF"
+  ], 
+  "thomson": [
+    "RCT3004", 
+    "RCT443_MN1", 
+    "ROC85", 
+    "TC99"
+  ], 
+  "tivo": [
+    "DTV36", 
+    "TIVO_Series_2"
+  ], 
+  "toshiba": [
+    "CT-865", 
+    "CT-90047", 
+    "CT-90101", 
+    "CT-90159", 
+    "CT-90287", 
+    "CT-9347", 
+    "VC-685"
+  ], 
+  "trutech": [
+    "TV"
+  ], 
+  "twinhan": [
+    "DTV"
+  ], 
+  "typhoon": [
+    "Starbox"
+  ], 
+  "universal": [
+    "MELICONI_PERSONAL", 
+    "REMOTE_MASTER_1000_0171", 
+    "URC-7532"
+  ], 
+  "universum": [
+    "TV"
+  ], 
+  "vestel": [
+    "TV"
+  ], 
+  "wd": [
+    "HDTVMediaPlayerV1", 
+    "KWSB0865F101", 
+    "TV_Live"
+  ], 
+  "yamaha": [
+    "TV"
+  ], 
+  "zenith": [
+    "TV"
+  ]
+}
